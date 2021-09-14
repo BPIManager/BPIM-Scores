@@ -1,9 +1,9 @@
 # BPIM-Score-Repo
 This repository is being maintained for the purposes shown below.
 1. To store definitions used in BPIManager
-2. To maintain the script that enables editing definitions on the CLI
+2. To maintain scripts that enables editing definitions on CLI
 
-*Output data will be published on gh-pages and available on BPIManager via [proxy](https://proxy.poyashi.me/?type=bpi)
+*Output data is being published on gh-pages and available on BPIManager via [proxy](https://proxy.poyashi.me/?type=bpi)
 
 ## Directories
 
@@ -16,7 +16,7 @@ This repository is being maintained for the purposes shown below.
 ## Usage
 **node ./main.js build --n \<filename\> --o \<outputVersion\> --r \<requireVersion\>**
 
-Build the release version of the definition file.  
+Build a release version of the definition file.  
 
 | Options | Type | Description |
 | -- | -- | -- |
@@ -26,7 +26,7 @@ Build the release version of the definition file.
 
 **node ./main.js update --t \<targetFile\> --m \<editMode\>**
 
-Update metadata in input files.
+Update each meta-data in input files.
 
 | Options | Type | Description |
 | -- | -- | -- |
