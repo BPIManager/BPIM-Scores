@@ -624,6 +624,18 @@
       "coef":1.17766
    },
    {
+      "title":"COSMIC RAY",
+      "wr":"-1",
+      "avg":"-1",
+      "difficulty":"4",
+      "notes":"1509",
+      "bpm":"195",
+      "textage":"28/cosmcray.html?1AC00",
+      "difficultyLevel":"12",
+      "dpLevel":"0",
+      "coef":1.17766
+   },
+   {
       "title":"Dances with Snow Fairies",
       "wr":"3198",
       "avg":"2593",
@@ -850,6 +862,18 @@
       "difficultyLevel":"12",
       "dpLevel":"0",
       "coef":1.03148
+   },
+   {
+      "title":"DUAL STRIKER",
+      "wr":"-1",
+      "avg":"-1",
+      "difficulty":"4",
+      "notes":"1960",
+      "bpm":"185",
+      "textage":"28/dualstr.html?1AC00",
+      "difficultyLevel":"12",
+      "dpLevel":"0",
+      "coef":-1
    },
    {
       "title":"DUE TOMORROW",
@@ -1802,6 +1826,18 @@
       "coef":0.86831
    },
    {
+      "title":"Level 3",
+      "difficulty":"4",
+      "wr":"-1",
+      "avg":"-1",
+      "notes":"1844",
+      "bpm":"175",
+      "textage":"28/level3.html?1AC00",
+      "difficultyLevel":"12",
+      "dpLevel":"0",
+      "coef":-1
+   },
+   {
       "title":"Level One",
       "wr":"3651",
       "avg":"2629",
@@ -1874,6 +1910,18 @@
       "coef":1.21455
    },
    {
+      "title":"LOCUS OF THE TRAVEL",
+      "difficulty":"4",
+      "wr":"-1",
+      "avg":"-1",
+      "notes":"1920",
+      "bpm":"182",
+      "textage":"28/locustrv.html?1AC00",
+      "difficultyLevel":"12",
+      "dpLevel":"0",
+      "coef":-1
+   },
+   {
       "title":"Lords Of The Roundtable",
       "wr":"3134",
       "avg":"2402",
@@ -1932,6 +1980,18 @@
       "difficultyLevel":"12",
       "dpLevel":"0",
       "coef":1.20152
+   },
+   {
+      "title":"Marie Antoinette",
+      "wr":"-1",
+      "avg":"-1",
+      "difficulty":"10",
+      "notes":"1618",
+      "bpm":"205-248",
+      "textage":"16/marieant.html?1XC00",
+      "difficultyLevel":"12",
+      "dpLevel":"0",
+      "coef":-1
    },
    {
       "title":"Matt Silver",
@@ -2616,6 +2676,18 @@
       "difficultyLevel":"12",
       "dpLevel":"0",
       "coef":1.09009
+   },
+   {
+      "title":"SAMURAI-Scramble",
+      "wr":"-1",
+      "avg":"-1",
+      "difficulty":"10",
+      "notes":"1576",
+      "bpm":"150",
+      "textage":"24/samurais.html?1XC00",
+      "difficultyLevel":"12",
+      "dpLevel":"0",
+      "coef":-1
    },
    {
       "title":"SAY BAY",
@@ -4835,6 +4907,18 @@
       "notes":"1877",
       "bpm":"173",
       "textage":"28/_vajra.html?1AC00",
+      "difficultyLevel":"12",
+      "dpLevel":"0",
+      "coef":-1
+   },
+   {
+      "title":"スーパー戦湯ババンバーン",
+      "wr":"-1",
+      "avg":"-1",
+      "difficulty":"4",
+      "notes":"1755",
+      "bpm":"187",
+      "textage":"28/_spbaban.html?1AC00",
       "difficultyLevel":"12",
       "dpLevel":"0",
       "coef":-1

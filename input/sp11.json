@@ -1096,6 +1096,18 @@
       "coef":-1
    },
    {
+      "title":"Danza Aestas",
+      "difficulty":"4",
+      "wr":"-1",
+      "avg":"-1",
+      "notes":"1519",
+      "bpm":"150",
+      "textage":"28/danzaest.html?1AB00",
+      "difficultyLevel":"11",
+      "dpLevel":"0",
+      "coef":-1
+   },
+   {
       "title":"D.C.fish",
       "difficulty":"4",
       "wr":"2351",
@@ -1726,6 +1738,18 @@
       "coef":-1
    },
    {
+      "title":"Globe Glitter",
+      "difficulty":"4",
+      "wr":"-1",
+      "avg":"-1",
+      "notes":"1369",
+      "bpm":"190",
+      "textage":"28/globeglt.html?1AB00",
+      "difficultyLevel":"11",
+      "dpLevel":"0",
+      "coef":-1
+   },
+   {
       "title":"GOBBLE",
       "difficulty":"4",
       "wr":"1726",
@@ -2230,6 +2254,18 @@
       "coef":-1
    },
    {
+      "title":"LIKE A VAMPIRE",
+      "difficulty":"4",
+      "wr":"-1",
+      "avg":"-1",
+      "notes":"1415",
+      "bpm":"276",
+      "textage":"28/likevamp.html?1AB00",
+      "difficultyLevel":"11",
+      "dpLevel":"0",
+      "coef":-1
+   },
+   {
       "title":"Like+it!",
       "difficulty":"4",
       "wr":"2387",
@@ -2395,6 +2431,30 @@
       "notes":"1116",
       "bpm":"256",
       "textage":"24/marenect.html?1HB00",
+      "difficultyLevel":"11",
+      "dpLevel":"0",
+      "coef":-1
+   },
+   {
+      "title":"Marie Antoinette",
+      "difficulty":"4",
+      "wr":"-1",
+      "avg":"-1",
+      "notes":"1312",
+      "bpm":"205-248",
+      "textage":"16/marieant.html?1AB00",
+      "difficultyLevel":"11",
+      "dpLevel":"0",
+      "coef":-1
+   },
+   {
+      "title":"MA・TSU・RI",
+      "difficulty":"4",
+      "wr":"-1",
+      "avg":"-1",
+      "notes":"1302",
+      "bpm":"160",
+      "textage":"28/matsuri.html?1AB00",
       "difficultyLevel":"11",
       "dpLevel":"0",
       "coef":-1
@@ -2942,20 +3002,6 @@
       "coef":-1
    },
    {
-      "title":"POL?AMAИIA",
-      "wr":"2984",
-      "avg":"2594",
-      "difficulty":"4",
-      "notes":"1507",
-      "bpm":"160",
-      "textage":"28/plkmania.html?1AB00",
-      "difficultyLevel":"11",
-      "dpLevel":"0",
-      "coef":-1,
-      "removed":true,
-      "delVer":0
-   },
-   {
       "title":"Pollinosis",
       "difficulty":"4",
       "wr":"2543",
@@ -3179,6 +3225,18 @@
       "notes":"1360",
       "bpm":"154",
       "textage":"21/refindex.html?1AB00",
+      "difficultyLevel":"11",
+      "dpLevel":"0",
+      "coef":-1
+   },
+   {
+      "title":"Rejection Girl",
+      "difficulty":"4",
+      "wr":"-1",
+      "avg":"-1",
+      "notes":"1352",
+      "bpm":"174",
+      "textage":"28/rejegirl.html?1AB00",
       "difficultyLevel":"11",
       "dpLevel":"0",
       "coef":-1
@@ -4170,6 +4228,18 @@
       "coef":-1
    },
    {
+      "title":"the trigger of innocence",
+      "difficulty":"10",
+      "wr":"-1",
+      "avg":"-1",
+      "notes":"1558",
+      "bpm":"150",
+      "textage":"15/trigger.html?1XB00",
+      "difficultyLevel":"11",
+      "dpLevel":"0",
+      "coef":-1
+   },
+   {
       "title":"(This Is Not) The Angels",
       "difficulty":"4",
       "wr":"2716",
@@ -4705,6 +4775,18 @@
       "notes":"1393",
       "bpm":"160",
       "textage":"26/zendegi.html?1AB00",
+      "difficultyLevel":"11",
+      "dpLevel":"0",
+      "coef":-1
+   },
+   {
+      "title":"Zenith",
+      "difficulty":"4",
+      "wr":"-1",
+      "avg":"-1",
+      "notes":"1128",
+      "bpm":"164",
+      "textage":"28/zenith.html?1AB00",
       "difficultyLevel":"11",
       "dpLevel":"0",
       "coef":-1
