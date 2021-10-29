@@ -3225,7 +3225,7 @@
 	"coef": 1.07377
 }, {
 	"title": "TRANOID",
-	"wr": "3019",
+	"wr": "3058",
 	"avg": "2261",
 	"difficulty": "10",
 	"notes": "1546",
@@ -4523,4 +4523,37 @@
 	"difficultyLevel": "12",
 	"dpLevel": "0",
 	"coef": 1.07771
+}, {
+	"title": "Triple Cross",
+	"wr": -1,
+	"avg": -1,
+	"difficulty": "4",
+	"notes": "1667",
+	"bpm": "196",
+	"textage": "29/tricross.html?1AC00",
+	"difficultyLevel": "12",
+	"dpLevel": "0",
+	"coef": -1
+}, {
+	"title": "TOMAHAWK",
+	"wr": -1,
+	"avg": -1,
+	"difficulty": "4",
+	"notes": "1830",
+	"bpm": "215",
+	"textage": "29/tomahawk.html?1AC00",
+	"difficultyLevel": "12",
+	"dpLevel": "0",
+	"coef": -1
+}, {
+	"title": "One for All",
+	"wr": -1,
+	"avg": -1,
+	"difficulty": "4",
+	"notes": "1632",
+	"bpm": "195",
+	"textage": "29/oneforal.html?1AC00",
+	"difficultyLevel": "12",
+	"dpLevel": "0",
+	"coef": -1
 }]
