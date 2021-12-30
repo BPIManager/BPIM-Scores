@@ -5588,4 +5588,26 @@
 	"difficultyLevel": "11",
 	"dpLevel": "0",
 	"coef": -1
+}, {
+	"title": "AGEHA",
+	"wr": -1,
+	"avg": -1,
+	"difficulty": "10",
+	"notes": "1232",
+	"bpm": "180",
+	"textage": "11/ageha.html?1XB00",
+	"difficultyLevel": "11",
+	"dpLevel": "0",
+	"coef": -1
+}, {
+	"title": "ベィスドロップ・フリークス",
+	"wr": -1,
+	"avg": -1,
+	"difficulty": "10",
+	"notes": "1275",
+	"bpm": "179",
+	"textage": "22/_basdrop.html?1XB00",
+	"difficultyLevel": "11",
+	"dpLevel": "0",
+	"coef": -1
 }]

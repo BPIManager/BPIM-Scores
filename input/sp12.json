@@ -4677,4 +4677,26 @@
 	"difficultyLevel": "12",
 	"dpLevel": "0",
 	"coef": -1
+}, {
+	"title": "君のハートにロックオン",
+	"wr": -1,
+	"avg": -1,
+	"difficulty": "10",
+	"notes": "1828",
+	"bpm": "260",
+	"textage": "19/_klockon.html?1XC00",
+	"difficultyLevel": "12",
+	"dpLevel": "0",
+	"coef": -1
+}, {
+	"title": "BroGamer",
+	"wr": -1,
+	"avg": -1,
+	"difficulty": "10",
+	"notes": "2383",
+	"bpm": "207",
+	"textage": "24/brogamer.html?1XC00",
+	"difficultyLevel": "12",
+	"dpLevel": "0",
+	"coef": -1
 }]
