@@ -4556,4 +4556,125 @@
 	"difficultyLevel": "12",
 	"dpLevel": "0",
 	"coef": -1
+}, {
+	"title": "Ypsilon",
+	"wr": -1,
+	"avg": -1,
+	"difficulty": "10",
+	"notes": "1801",
+	"bpm": "160",
+	"textage": "27/ypsilon.html?1XC00",
+	"difficultyLevel": "12",
+	"dpLevel": "0",
+	"coef": -1
+}, {
+	"title": "Don't believe the hype",
+	"wr": -1,
+	"avg": -1,
+	"difficulty": "4",
+	"notes": "1666",
+	"bpm": "210",
+	"textage": "29/donthype.html?1AC00",
+	"difficultyLevel": "12",
+	"dpLevel": "0",
+	"coef": -1
+}, {
+	"title": "GiGaGaHell",
+	"wr": -1,
+	"avg": -1,
+	"difficulty": "4",
+	"notes": "1687",
+	"bpm": "250",
+	"textage": "29/gigagahl.html?1AC00",
+	"difficultyLevel": "12",
+	"dpLevel": "0",
+	"coef": -1
+}, {
+	"title": "LIVE DRIVING!! feat. 花たん",
+	"wr": -1,
+	"avg": -1,
+	"difficulty": "4",
+	"notes": "1947",
+	"bpm": "190",
+	"textage": "29/livedriv.html?1AC00",
+	"difficultyLevel": "12",
+	"dpLevel": "0",
+	"coef": -1
+}, {
+	"title": "Skreaming for Salvation",
+	"wr": -1,
+	"avg": -1,
+	"difficulty": "4",
+	"notes": "1625",
+	"bpm": "200",
+	"textage": "29/skrmsalv.html?1AC00",
+	"difficultyLevel": "12",
+	"dpLevel": "0",
+	"coef": -1
+}, {
+	"title": "Purple Perplex",
+	"wr": -1,
+	"avg": -1,
+	"difficulty": "4",
+	"notes": "1578",
+	"bpm": "150",
+	"textage": "29/pperplex.html?1AC00",
+	"difficultyLevel": "12",
+	"dpLevel": "0",
+	"coef": -1
+}, {
+	"title": "Aftermath",
+	"wr": -1,
+	"avg": -1,
+	"difficulty": "4",
+	"notes": "1828",
+	"bpm": "200",
+	"textage": "29/aftrmath.html?1AC00",
+	"difficultyLevel": "12",
+	"dpLevel": "0",
+	"coef": -1
+}, {
+	"title": "禊",
+	"wr": -1,
+	"avg": -1,
+	"difficulty": "4",
+	"notes": "1631",
+	"bpm": "160",
+	"textage": "29/_misogi.html?1AC00",
+	"difficultyLevel": "12",
+	"dpLevel": "0",
+	"coef": -1
+}, {
+	"title": "Angel's Ladder",
+	"wr": -1,
+	"avg": -1,
+	"difficulty": "4",
+	"notes": "1800",
+	"bpm": "155",
+	"textage": "29/angeladd.html?1AC00",
+	"difficultyLevel": "12",
+	"dpLevel": "0",
+	"coef": -1
+}, {
+	"title": "ALTERNATOR",
+	"wr": -1,
+	"avg": -1,
+	"difficulty": "4",
+	"notes": "1907",
+	"bpm": "185",
+	"textage": "29/altnator.html?1AC00",
+	"difficultyLevel": "12",
+	"dpLevel": "0",
+	"coef": -1
+}, {
+	"title": "Fegrix",
+	"wr": -1,
+	"avg": -1,
+	"difficulty": "4",
+	"notes": "1687",
+	"bpm": "175",
+	"textage": "29/fegrix.html?1AC00",
+	"difficultyLevel": "12",
+	"dpLevel": "0",
+	"coef": -1
 }]
