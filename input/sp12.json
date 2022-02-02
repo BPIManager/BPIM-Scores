@@ -4699,4 +4699,48 @@
 	"difficultyLevel": "12",
 	"dpLevel": "0",
 	"coef": -1
+}, {
+	"title": "Silver Bullet",
+	"wr": -1,
+	"avg": -1,
+	"difficulty": "4",
+	"notes": "1662",
+	"bpm": "152-172",
+	"textage": "29/slbullet.html?1AC00",
+	"difficultyLevel": "12",
+	"dpLevel": "0",
+	"coef": -1
+}, {
+	"title": "Binary Black Hole",
+	"wr": -1,
+	"avg": -1,
+	"difficulty": "4",
+	"notes": "2000",
+	"bpm": "190",
+	"textage": "29/binarybh.html?1AC00",
+	"difficultyLevel": "12",
+	"dpLevel": "0",
+	"coef": -1
+}, {
+	"title": "逆月",
+	"wr": -1,
+	"avg": -1,
+	"difficulty": "4",
+	"notes": "1920",
+	"bpm": "280",
+	"textage": "29/_sakazki.html?1AC00",
+	"difficultyLevel": "12",
+	"dpLevel": "0",
+	"coef": -1
+}, {
+	"title": "2 Beasts Unchained",
+	"wr": -1,
+	"avg": -1,
+	"difficulty": "4",
+	"notes": "1780",
+	"bpm": "175",
+	"textage": "29/2beasts.html?1AC00",
+	"difficultyLevel": "12",
+	"dpLevel": "0",
+	"coef": -1
 }]
