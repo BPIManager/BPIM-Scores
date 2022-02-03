@@ -1,2 +1,2 @@
-node ./main.js build --n release.json --o 20220203 --r 86
+node ./main.js build --n release.json --o 2022020301 --r 86
 pause
