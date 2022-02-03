@@ -4743,4 +4743,26 @@
 	"difficultyLevel": "12",
 	"dpLevel": "0",
 	"coef": -1
+}, {
+	"title": "ABSOLUTE EVIL",
+	"wr": -1,
+	"avg": -1,
+	"difficulty": "4",
+	"notes": "1778",
+	"bpm": "200",
+	"textage": "/",
+	"difficultyLevel": "12",
+	"dpLevel": "0",
+	"coef": -1
+}, {
+	"title": "n/a",
+	"wr": -1,
+	"avg": -1,
+	"difficulty": "4",
+	"notes": "1867",
+	"bpm": "85-255",
+	"textage": "/",
+	"difficultyLevel": "12",
+	"dpLevel": "0",
+	"coef": -1
 }]
