@@ -3620,8 +3620,8 @@
 }, {
 	"title": "Sinus Iridum",
 	"difficulty": "3",
-	"wr": "-1",
-	"avg": "-1",
+	"wr": "2130",
+	"avg": "1790",
 	"notes": "1101",
 	"bpm": "128-256",
 	"textage": "28/sinusiri.html?1HB00",
@@ -5347,10 +5347,21 @@
 	"dpLevel": "0",
 	"coef": -1
 }, {
+	"title": "Brahma",
+	"difficulty": "4",
+	"wr": 2891,
+	"avg": 2625,
+	"notes": "1454",
+	"bpm": "400",
+	"textage": "28/brahma.html?1AB00",
+	"difficultyLevel": "11",
+	"dpLevel": "0",
+	"coef": -1
+}, {
 	"title": "DREAM OF SPACE UFO ABDUCTION",
 	"difficulty": "4",
-	"wr": -1,
-	"avg": -1,
+	"wr": 2736,
+	"avg": 2483,
 	"notes": "1371",
 	"bpm": "140",
 	"textage": "29/dreamufo.html?1AB00",
@@ -5360,8 +5371,8 @@
 }, {
 	"title": "FINALLY BLAZE",
 	"difficulty": "4",
-	"wr": -1,
-	"avg": -1,
+	"wr": 2842,
+	"avg": 2539,
 	"notes": "1424",
 	"bpm": "185",
 	"textage": "29/fnlblaze.html?1AB00",
@@ -5371,8 +5382,8 @@
 }, {
 	"title": "Game Changers",
 	"difficulty": "4",
-	"wr": -1,
-	"avg": -1,
+	"wr": 2769,
+	"avg": 2405,
 	"notes": "1385",
 	"bpm": "105-210",
 	"textage": "29/",
@@ -5382,8 +5393,8 @@
 }, {
 	"title": "Hat Surprise",
 	"difficulty": "4",
-	"wr": -1,
-	"avg": -1,
+	"wr": 2466,
+	"avg": 2281,
 	"notes": "1234",
 	"bpm": "180",
 	"textage": "29/",
@@ -5393,8 +5404,8 @@
 }, {
 	"title": "ILAYZA",
 	"difficulty": "4",
-	"wr": -1,
-	"avg": -1,
+	"wr": 2848,
+	"avg": 2553,
 	"notes": "1433",
 	"bpm": "160",
 	"textage": "29/ilayza.html?1AB00",
@@ -5404,8 +5415,8 @@
 }, {
 	"title": "Lawes's Parotia",
 	"difficulty": "4",
-	"wr": -1,
-	"avg": -1,
+	"wr": 2583,
+	"avg": 2354,
 	"notes": "1294",
 	"bpm": "140",
 	"textage": "29/lparotia.html?1AB00",
@@ -5415,8 +5426,8 @@
 }, {
 	"title": "Onyx",
 	"difficulty": "4",
-	"wr": -1,
-	"avg": -1,
+	"wr": 2421,
+	"avg": 2192,
 	"notes": "1214",
 	"bpm": "44-174",
 	"textage": "29/onyx.html?1AB00",
@@ -5426,8 +5437,8 @@
 }, {
 	"title": "SOLID WYVERN",
 	"difficulty": "4",
-	"wr": -1,
-	"avg": -1,
+	"wr": 2662,
+	"avg": 2406,
 	"notes": "1333",
 	"bpm": "165",
 	"textage": "29/slwyvern.html?1AB00",
@@ -5437,8 +5448,8 @@
 }, {
 	"title": "Tail Lights",
 	"difficulty": "4",
-	"wr": -1,
-	"avg": -1,
+	"wr": 3152,
+	"avg": 2850,
 	"notes": "1589",
 	"bpm": "156",
 	"textage": "29/tailight.html?1AB00",
@@ -5448,8 +5459,8 @@
 }, {
 	"title": "Ventriloquist",
 	"difficulty": "4",
-	"wr": -1,
-	"avg": -1,
+	"wr": 2457,
+	"avg": 2261,
 	"notes": "1232",
 	"bpm": "170",
 	"textage": "29/ventrilq.html?1AB00",
@@ -5459,8 +5470,8 @@
 }, {
 	"title": "Victory Of Ravers",
 	"difficulty": "4",
-	"wr": -1,
-	"avg": -1,
+	"wr": 2597,
+	"avg": 2374,
 	"notes": "1301",
 	"bpm": "178",
 	"textage": "29/vcravers.html?1AB00",
@@ -5470,8 +5481,8 @@
 }, {
 	"title": "Xyndrome",
 	"difficulty": "4",
-	"wr": -1,
-	"avg": -1,
+	"wr": 2985,
+	"avg": 2684,
 	"notes": "1495",
 	"bpm": "195",
 	"textage": "29/xyndrome.html?1AB00",
@@ -5481,8 +5492,8 @@
 }, {
 	"title": "デモーニッシュ",
 	"difficulty": "4",
-	"wr": -1,
-	"avg": -1,
+	"wr": 2406,
+	"avg": 2195,
 	"notes": "1205",
 	"bpm": "140-200",
 	"textage": "29/_damonis.html?1AB00",
@@ -5492,8 +5503,8 @@
 }, {
 	"title": "《GRANDMASTER》",
 	"difficulty": "4",
-	"wr": -1,
-	"avg": -1,
+	"wr": 2992,
+	"avg": 2624,
 	"notes": "1504",
 	"bpm": "160",
 	"textage": "29/",
@@ -5503,8 +5514,8 @@
 }, {
 	"title": "ハイテックトキオ",
 	"difficulty": "4",
-	"wr": -1,
-	"avg": -1,
+	"wr": 2729,
+	"avg": 2446,
 	"notes": "1367",
 	"bpm": "165",
 	"textage": "29/_hitokio.html?1AB00",
@@ -5514,8 +5525,8 @@
 }, {
 	"title": "オールトの雲",
 	"difficulty": "4",
-	"wr": -1,
-	"avg": -1,
+	"wr": 2664,
+	"avg": 2449,
 	"notes": "1335",
 	"bpm": "215",
 	"textage": "29/_oortcld.html?1AB00",
@@ -5525,8 +5536,8 @@
 }, {
 	"title": "ウツシミウツシ",
 	"difficulty": "4",
-	"wr": -1,
-	"avg": -1,
+	"wr": 3181,
+	"avg": 2898,
 	"notes": "1595",
 	"bpm": "175",
 	"textage": "29/_utusimi.html?1AB00",
@@ -5536,8 +5547,8 @@
 }, {
 	"title": "月とミルク",
 	"difficulty": "4",
-	"wr": -1,
-	"avg": -1,
+	"wr": 2799,
+	"avg": 2612,
 	"notes": "1400",
 	"bpm": "190",
 	"textage": "29/_tktmilk.html?1AB00",
@@ -5546,8 +5557,8 @@
 	"coef": -1
 }, {
 	"title": "ミュージック・アワー",
-	"wr": -1,
-	"avg": -1,
+	"wr": 3023,
+	"avg": 2761,
 	"difficulty": "4",
 	"notes": "1516",
 	"bpm": "165",
@@ -5557,8 +5568,8 @@
 	"coef": -1
 }, {
 	"title": "ぐだふわエブリデー",
-	"wr": -1,
-	"avg": -1,
+	"wr": 2318,
+	"avg": 2129,
 	"difficulty": "4",
 	"notes": "1169",
 	"bpm": "220",
@@ -5568,8 +5579,8 @@
 	"coef": -1
 }, {
 	"title": "kors k's How to make OTOGE CORE",
-	"wr": -1,
-	"avg": -1,
+	"wr": 2335,
+	"avg": 2018,
 	"difficulty": "4",
 	"notes": "1180",
 	"bpm": "124-190",
@@ -5579,8 +5590,8 @@
 	"coef": -1
 }, {
 	"title": "Ergosphere",
-	"wr": -1,
-	"avg": -1,
+	"wr": 2751,
+	"avg": 2454,
 	"difficulty": "4",
 	"notes": "1391",
 	"bpm": "170",
@@ -5590,8 +5601,8 @@
 	"coef": -1
 }, {
 	"title": "AGEHA",
-	"wr": -1,
-	"avg": -1,
+	"wr": 2456,
+	"avg": 2229,
 	"difficulty": "10",
 	"notes": "1232",
 	"bpm": "180",
@@ -5601,8 +5612,8 @@
 	"coef": -1
 }, {
 	"title": "ベィスドロップ・フリークス",
-	"wr": -1,
-	"avg": -1,
+	"wr": 2520,
+	"avg": 2009,
 	"difficulty": "10",
 	"notes": "1275",
 	"bpm": "179",
@@ -5612,8 +5623,8 @@
 	"coef": -1
 }, {
 	"title": "青の洞窟",
-	"wr": -1,
-	"avg": -1,
+	"wr": 3178,
+	"avg": 2799,
 	"difficulty": "4",
 	"notes": "1600",
 	"bpm": "175",
@@ -5623,8 +5634,8 @@
 	"coef": -1
 }, {
 	"title": "Banger Banger Banger Banger",
-	"wr": -1,
-	"avg": -1,
+	"wr": 2978,
+	"avg": 2667,
 	"difficulty": "4",
 	"notes": "1497",
 	"bpm": "190",
