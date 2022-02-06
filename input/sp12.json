@@ -4525,202 +4525,202 @@
 	"coef": 1.07771
 }, {
 	"title": "Triple Cross",
-	"wr": 3323,
-	"avg": 2910,
+	"wr": -1,
+	"avg": -1,
 	"difficulty": "4",
 	"notes": "1667",
 	"bpm": "196",
 	"textage": "29/tricross.html?1AC00",
 	"difficultyLevel": "12",
 	"dpLevel": "0",
-	"coef": 0.72704
+	"coef": -1
 }, {
 	"title": "TOMAHAWK",
-	"wr": 3618,
-	"avg": 3002,
+	"wr": -1,
+	"avg": -1,
 	"difficulty": "4",
 	"notes": "1830",
 	"bpm": "215",
 	"textage": "29/tomahawk.html?1AC00",
 	"difficultyLevel": "12",
 	"dpLevel": "0",
-	"coef": 0.61168
+	"coef": -1
 }, {
 	"title": "One for All",
-	"wr": 3257,
-	"avg": 2821,
+	"wr": -1,
+	"avg": -1,
 	"difficulty": "4",
 	"notes": "1632",
 	"bpm": "195",
 	"textage": "29/oneforal.html?1AC00",
 	"difficultyLevel": "12",
 	"dpLevel": "0",
-	"coef": 0.52667
+	"coef": -1
 }, {
 	"title": "Ypsilon",
-	"wr": 3579,
-	"avg": 3150,
+	"wr": -1,
+	"avg": -1,
 	"difficulty": "10",
 	"notes": "1801",
 	"bpm": "160",
 	"textage": "27/ypsilon.html?1XC00",
 	"difficultyLevel": "12",
 	"dpLevel": "0",
-	"coef": 0.88181
+	"coef": -1
 }, {
 	"title": "Don't believe the hype",
-	"wr": 3314,
-	"avg": 2631,
+	"wr": -1,
+	"avg": -1,
 	"difficulty": "4",
 	"notes": "1666",
 	"bpm": "210",
 	"textage": "29/donthype.html?1AC00",
 	"difficultyLevel": "12",
 	"dpLevel": "0",
-	"coef": 0.61352
+	"coef": -1
 }, {
 	"title": "GiGaGaHell",
-	"wr": 3284,
-	"avg": 2582,
+	"wr": -1,
+	"avg": -1,
 	"difficulty": "4",
 	"notes": "1687",
 	"bpm": "250",
 	"textage": "29/gigagahl.html?1AC00",
 	"difficultyLevel": "12",
 	"dpLevel": "0",
-	"coef": 0.86131
+	"coef": -1
 }, {
 	"title": "LIVE DRIVING!! feat. 花たん",
-	"wr": 3880,
-	"avg": 3440,
+	"wr": -1,
+	"avg": -1,
 	"difficulty": "4",
 	"notes": "1947",
 	"bpm": "190",
 	"textage": "29/livedriv.html?1AC00",
 	"difficultyLevel": "12",
 	"dpLevel": "0",
-	"coef": 0.70645
+	"coef": -1
 }, {
 	"title": "Skreaming for Salvation",
-	"wr": 3205,
-	"avg": 2649,
+	"wr": -1,
+	"avg": -1,
 	"difficulty": "4",
 	"notes": "1625",
 	"bpm": "200",
 	"textage": "29/skrmsalv.html?1AC00",
 	"difficultyLevel": "12",
 	"dpLevel": "0",
-	"coef": 0.92668
+	"coef": -1
 }, {
 	"title": "Purple Perplex",
-	"wr": 3106,
-	"avg": 2520,
+	"wr": -1,
+	"avg": -1,
 	"difficulty": "4",
 	"notes": "1578",
 	"bpm": "150",
 	"textage": "29/pperplex.html?1AC00",
 	"difficultyLevel": "12",
 	"dpLevel": "0",
-	"coef": 0.84680
+	"coef": -1
 }, {
 	"title": "Aftermath",
-	"wr": 3619,
-	"avg": 3149,
+	"wr": -1,
+	"avg": -1,
 	"difficulty": "4",
 	"notes": "1828",
 	"bpm": "200",
 	"textage": "29/aftrmath.html?1AC00",
 	"difficultyLevel": "12",
 	"dpLevel": "0",
-	"coef": 0.89330
+	"coef": -1
 }, {
 	"title": "禊",
-	"wr": 3237,
-	"avg": 2743,
+	"wr": -1,
+	"avg": -1,
 	"difficulty": "4",
 	"notes": "1631",
 	"bpm": "160",
 	"textage": "29/_misogi.html?1AC00",
 	"difficultyLevel": "12",
 	"dpLevel": "0",
-	"coef": 0.81485
+	"coef": -1
 }, {
 	"title": "Angel's Ladder",
-	"wr": 3529,
-	"avg": 2955,
+	"wr": -1,
+	"avg": -1,
 	"difficulty": "4",
 	"notes": "1800",
 	"bpm": "155",
 	"textage": "29/angeladd.html?1AC00",
 	"difficultyLevel": "12",
 	"dpLevel": "0",
-	"coef": 0.87141
+	"coef": -1
 }, {
 	"title": "ALTERNATOR",
-	"wr": 3794,
-	"avg": 3269,
+	"wr": -1,
+	"avg": -1,
 	"difficulty": "4",
 	"notes": "1907",
 	"bpm": "185",
 	"textage": "29/altnator.html?1AC00",
 	"difficultyLevel": "12",
 	"dpLevel": "0",
-	"coef": 0.76599
+	"coef": -1
 }, {
 	"title": "Fegrix",
-	"wr": 3342,
-	"avg": 2867,
+	"wr": -1,
+	"avg": -1,
 	"difficulty": "4",
 	"notes": "1687",
 	"bpm": "175",
 	"textage": "29/fegrix.html?1AC00",
 	"difficultyLevel": "12",
 	"dpLevel": "0",
-	"coef": 0.87588
+	"coef": -1
 }, {
 	"title": "君のハートにロックオン",
-	"wr": 3546,
-	"avg": 2858,
+	"wr": -1,
+	"avg": -1,
 	"difficulty": "10",
 	"notes": "1828",
 	"bpm": "260",
 	"textage": "19/_klockon.html?1XC00",
 	"difficultyLevel": "12",
 	"dpLevel": "0",
-	"coef": 1.06784
+	"coef": -1
 }, {
 	"title": "BroGamer",
-	"wr": 4712,
-	"avg": 3925,
+	"wr": -1,
+	"avg": -1,
 	"difficulty": "10",
 	"notes": "2383",
 	"bpm": "207",
 	"textage": "24/brogamer.html?1XC00",
 	"difficultyLevel": "12",
 	"dpLevel": "0",
-	"coef": 0.80896
+	"coef": -1
 }, {
 	"title": "Silver Bullet",
-	"wr": 3247,
-	"avg": 2750,
+	"wr": -1,
+	"avg": -1,
 	"difficulty": "4",
 	"notes": "1662",
 	"bpm": "152-172",
 	"textage": "29/slbullet.html?1AC00",
 	"difficultyLevel": "12",
 	"dpLevel": "0",
-	"coef": 0.86158
+	"coef": -1
 }, {
 	"title": "Binary Black Hole",
-	"wr": 3938,
-	"avg": 3234,
+	"wr": -1,
+	"avg": -1,
 	"difficulty": "4",
 	"notes": "2000",
 	"bpm": "190",
 	"textage": "29/binarybh.html?1AC00",
 	"difficultyLevel": "12",
 	"dpLevel": "0",
-	"coef": 1.05203
+	"coef": -1
 }, {
 	"title": "逆月",
 	"wr": -1,
