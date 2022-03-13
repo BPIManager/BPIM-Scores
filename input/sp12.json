@@ -4750,7 +4750,7 @@
 	"difficulty": "4",
 	"notes": "1778",
 	"bpm": "200",
-	"textage": "29/",
+	"textage": "29/absoevil.html?1AC00",
 	"difficultyLevel": "12",
 	"dpLevel": "0",
 	"coef": -1
@@ -4761,7 +4761,29 @@
 	"difficulty": "4",
 	"notes": "1867",
 	"bpm": "85-255",
-	"textage": "29/",
+	"textage": "29/n_a.html?1AC00",
+	"difficultyLevel": "12",
+	"dpLevel": "0",
+	"coef": -1
+}, {
+	"title": "烽火連天の刃",
+	"wr": -1,
+	"avg": -1,
+	"difficulty": "4",
+	"notes": "1771",
+	"bpm": "190",
+	"textage": "29/_hrenten.html?1AC00",
+	"difficultyLevel": "12",
+	"dpLevel": "0",
+	"coef": -1
+}, {
+	"title": "PLASMA SOUL NIGHT feat. Nana Takahashi / 709sec.",
+	"wr": -1,
+	"avg": -1,
+	"difficulty": "4",
+	"notes": "2271",
+	"bpm": "178",
+	"textage": "29/plasmasn.html?1AC00",
 	"difficultyLevel": "12",
 	"dpLevel": "0",
 	"coef": -1
