@@ -4787,4 +4787,26 @@
 	"difficultyLevel": "12",
 	"dpLevel": "0",
 	"coef": -1
+}, {
+	"title": "Scripted Connection⇒ A mix",
+	"wr": -1,
+	"avg": -1,
+	"difficulty": "10",
+	"notes": "1749",
+	"bpm": "151",
+	"textage": "12/script_a.html?1XC00",
+	"difficultyLevel": "12",
+	"dpLevel": "0",
+	"coef": -1
+}, {
+	"title": "Push on Beats!～音ゲの国のeX-ストリーマー～",
+	"wr": -1,
+	"avg": -1,
+	"difficulty": "4",
+	"notes": "1748",
+	"bpm": "164-172",
+	"textage": "29/pushonbt.html?1AC00",
+	"difficultyLevel": "12",
+	"dpLevel": "0",
+	"coef": -1
 }]
