@@ -1,6 +1,6 @@
 [{
 	"title": "-65℃",
-	"wr": 3755,
+	"wr": 3791,
 	"avg": 3107,
 	"difficulty": "4",
 	"notes": 1912,
@@ -8,7 +8,7 @@
 	"textage": "28/_65c.html?1AC00",
 	"difficultyLevel": "12",
 	"dpLevel": "0",
-	"coef": 1.086
+	"coef": 0.915327
 }, {
 	"title": "#MAGiCVLGiRL_TRVP_B3VTZ",
 	"wr": 3477,
@@ -96,7 +96,7 @@
 	"textage": "7/a_amuro.html?1AC00",
 	"difficultyLevel": "12",
 	"dpLevel": "0",
-	"coef": 0.64334
+	"coef": 0.88
 }, {
 	"title": "AA",
 	"wr": 3656,
@@ -151,7 +151,7 @@
 	"textage": "27/akashicb.html?1AC00",
 	"difficultyLevel": "12",
 	"dpLevel": "0",
-	"coef": 0.696053
+	"coef": 0.88
 }, {
 	"title": "ALBIDA",
 	"wr": 3051,
@@ -162,7 +162,7 @@
 	"textage": "18/albida.html?1AC00",
 	"difficultyLevel": "12",
 	"dpLevel": "0",
-	"coef": 0.69666
+	"coef": 0.88
 }, {
 	"title": "Almagest",
 	"wr": 3219,
@@ -228,7 +228,7 @@
 	"textage": "15/anisakis.html?1XC00",
 	"difficultyLevel": "12",
 	"dpLevel": "0",
-	"coef": 0.917225
+	"coef": -1
 }, {
 	"title": "Antigravity",
 	"wr": 3144,
@@ -250,7 +250,7 @@
 	"textage": "23/ao_1.html?1AC00",
 	"difficultyLevel": "12",
 	"dpLevel": "0",
-	"coef": 0.682767
+	"coef": 0.88
 }, {
 	"title": "Apocalypse",
 	"wr": 3610,
@@ -385,7 +385,7 @@
 	"coef": 0.83153
 }, {
 	"title": "BLACK or WHITE?",
-	"wr": 3989,
+	"wr": 4016,
 	"avg": 3349,
 	"difficulty": "4",
 	"notes": 2013,
@@ -393,7 +393,7 @@
 	"textage": "28/blkwhite.html?1AC00",
 	"difficultyLevel": "12",
 	"dpLevel": "0",
-	"coef": 1.125319
+	"coef": 0.745904
 }, {
 	"title": "BLACK.by X-Cross Fade",
 	"wr": 3451,
@@ -657,7 +657,7 @@
 	"textage": "13/contracl.html?1AC00",
 	"difficultyLevel": "12",
 	"dpLevel": "0",
-	"coef": 0.69894
+	"coef": 0.88
 }, {
 	"title": "Cosmic Cat",
 	"wr": 3286,
@@ -671,7 +671,7 @@
 	"coef": 0.818698
 }, {
 	"title": "COSMIC RAY",
-	"wr": 2955,
+	"wr": 2989,
 	"avg": 2375,
 	"difficulty": "4",
 	"notes": 1509,
@@ -891,7 +891,7 @@
 	"coef": 0.778366
 }, {
 	"title": "DUAL STRIKER",
-	"wr": 3895,
+	"wr": 3908,
 	"avg": 3315,
 	"difficulty": "4",
 	"notes": 1960,
@@ -899,7 +899,7 @@
 	"textage": "28/dualstr.html?1AC00",
 	"difficultyLevel": "12",
 	"dpLevel": "0",
-	"coef": 1.076985
+	"coef": 0.781525
 }, {
 	"title": "DUE TOMORROW",
 	"wr": 2112,
@@ -992,7 +992,7 @@
 	"coef": 0.884313
 }, {
 	"title": "Empire of Fury",
-	"wr": 3357,
+	"wr": 3365,
 	"avg": 2679,
 	"difficulty": "4",
 	"notes": 1700,
@@ -1000,7 +1000,7 @@
 	"textage": "28/emprfury.html?1AC00",
 	"difficultyLevel": "12",
 	"dpLevel": "0",
-	"coef": 1.023544
+	"coef": 0.920459
 }, {
 	"title": "encounter",
 	"wr": 3328,
@@ -1198,7 +1198,7 @@
 	"textage": "14/firefire.html?1AC00",
 	"difficultyLevel": "12",
 	"dpLevel": "0",
-	"coef": 0.649615
+	"coef": 0.88
 }, {
 	"title": "Flashes",
 	"wr": 3355,
@@ -1484,7 +1484,7 @@
 	"textage": "15/icarus.html?1AC00",
 	"difficultyLevel": "12",
 	"dpLevel": "0",
-	"coef": 0.562965
+	"coef": 0.88
 }, {
 	"title": "Idola",
 	"wr": 3634,
@@ -1498,7 +1498,7 @@
 	"coef": 0.901659
 }, {
 	"title": "Ignis†Irae",
-	"wr": 3833,
+	"wr": 3857,
 	"avg": 2889,
 	"difficulty": "4",
 	"notes": 1970,
@@ -1506,7 +1506,7 @@
 	"textage": "28/ignisira.html?1AC00",
 	"difficultyLevel": "12",
 	"dpLevel": "0",
-	"coef": 1.000021
+	"coef": 0.845091
 }, {
 	"title": "Illusionary Waterlily",
 	"wr": 3578,
@@ -1528,7 +1528,7 @@
 	"textage": "22/implant.html?1AC00",
 	"difficultyLevel": "12",
 	"dpLevel": "0",
-	"coef": 0.651361
+	"coef": 0.88
 }, {
 	"title": "Inferno of Fomalhaut",
 	"wr": 3327,
@@ -1539,7 +1539,7 @@
 	"textage": "27/inffomal.html?1AC00",
 	"difficultyLevel": "12",
 	"dpLevel": "0",
-	"coef": 0.697962
+	"coef": 0.88
 }, {
 	"title": "Initiation",
 	"wr": 4017,
@@ -1553,7 +1553,7 @@
 	"coef": 0.944561
 }, {
 	"title": "innocent revolver",
-	"wr": 3917,
+	"wr": 3935,
 	"avg": 3261,
 	"difficulty": "4",
 	"notes": 1990,
@@ -1572,7 +1572,7 @@
 	"textage": "10/innocent.html?1AC00",
 	"difficultyLevel": "12",
 	"dpLevel": "0",
-	"coef": 0.579489
+	"coef": 0.88
 }, {
 	"title": "Innocent Walls",
 	"wr": 2550,
@@ -1583,7 +1583,7 @@
 	"textage": "10/innocent.html?1HC00",
 	"difficultyLevel": "12",
 	"dpLevel": "0",
-	"coef": 0.648546
+	"coef": 0.88
 }, {
 	"title": "INSOMNIA",
 	"wr": 3291,
@@ -1785,7 +1785,7 @@
 }, {
 	"title": "Level 3",
 	"difficulty": "4",
-	"wr": 3597,
+	"wr": 3627,
 	"avg": 2893,
 	"notes": 1844,
 	"bpm": "175",
@@ -1814,7 +1814,7 @@
 	"textage": "20/liberatn.html?1AC00",
 	"difficultyLevel": "12",
 	"dpLevel": "0",
-	"coef": 0.690561
+	"coef": 0.88
 }, {
 	"title": "Life Is A Game ft.DD\"ナカタ\"Metal",
 	"wr": "3511",
@@ -1862,7 +1862,7 @@
 }, {
 	"title": "LOCUS OF THE TRAVEL",
 	"difficulty": "4",
-	"wr": 3739,
+	"wr": 3772,
 	"avg": 2893,
 	"notes": 1920,
 	"bpm": "182",
@@ -1949,7 +1949,7 @@
 	"coef": 0.831602
 }, {
 	"title": "MEGAERA",
-	"wr": 3549,
+	"wr": 3558,
 	"avg": 2838,
 	"difficulty": "4",
 	"notes": 1790,
@@ -1957,7 +1957,7 @@
 	"textage": "28/megaera.html?1AC00",
 	"difficultyLevel": "12",
 	"dpLevel": "0",
-	"coef": 0.998156
+	"coef": 0.857414
 }, {
 	"title": "Megalara Garuda",
 	"wr": 3062,
@@ -2111,7 +2111,7 @@
 	"textage": "10/onemore.html?1AC00",
 	"difficultyLevel": "12",
 	"dpLevel": "0",
-	"coef": 0.662422
+	"coef": 0.88
 }, {
 	"title": "one or eight",
 	"wr": 2337,
@@ -2213,7 +2213,7 @@
 	"coef": 0.804044
 }, {
 	"title": "Parvati",
-	"wr": 2895,
+	"wr": 2897,
 	"avg": 2479,
 	"difficulty": "4",
 	"notes": 1467,
@@ -2221,7 +2221,7 @@
 	"textage": "28/parvati.html?1AC00",
 	"difficultyLevel": "12",
 	"dpLevel": "0",
-	"coef": 0.771106
+	"coef": 0.75342
 }, {
 	"title": "perditus†paradisus",
 	"wr": 4007,
@@ -2287,7 +2287,7 @@
 	"textage": "23/posesion.html?1AC00",
 	"difficultyLevel": "12",
 	"dpLevel": "0",
-	"coef": 0.683173
+	"coef": 0.88
 }, {
 	"title": "Primitive Vibes",
 	"wr": 3125,
@@ -2298,7 +2298,7 @@
 	"textage": "27/prmvibes.html?1AC00",
 	"difficultyLevel": "12",
 	"dpLevel": "0",
-	"coef": 0.584012
+	"coef": 0.88
 }, {
 	"title": "Proof of the existence",
 	"wr": 3289,
@@ -2430,7 +2430,7 @@
 	"textage": "24/rvcannon.html?1AC00",
 	"difficultyLevel": "12",
 	"dpLevel": "0",
-	"coef": 0.643494
+	"coef": 0.88
 }, {
 	"title": "Rave Patroller",
 	"wr": 3402,
@@ -2529,7 +2529,7 @@
 	"textage": "15/ristacia.html?1AC00",
 	"difficultyLevel": "12",
 	"dpLevel": "0",
-	"coef": 0.689532
+	"coef": 0.88
 }, {
 	"title": "rommmo",
 	"wr": 3504,
@@ -2562,7 +2562,7 @@
 	"textage": "18/sakurast.html?1AC00",
 	"difficultyLevel": "12",
 	"dpLevel": "0",
-	"coef": 0.640336
+	"coef": 0.88
 }, {
 	"title": "SAMURAI-Scramble",
 	"wr": 3050,
@@ -2573,7 +2573,7 @@
 	"textage": "24/samurais.html?1XC00",
 	"difficultyLevel": "12",
 	"dpLevel": "0",
-	"coef": 0.685916
+	"coef": 0.88
 }, {
 	"title": "SAY BAY",
 	"wr": 2887,
@@ -2697,7 +2697,7 @@
 	"coef": 0.918235
 }, {
 	"title": "Sinus Iridum",
-	"wr": 3430,
+	"wr": 3469,
 	"avg": 2401,
 	"difficulty": "4",
 	"notes": 1803,
@@ -2705,7 +2705,7 @@
 	"textage": "28/sinusiri.html?1AC00",
 	"difficultyLevel": "12",
 	"dpLevel": "0",
-	"coef": 0.97685
+	"coef": 0.869722
 }, {
 	"title": "Sky High",
 	"wr": 3864,
@@ -2793,7 +2793,7 @@
 	"textage": "17/sssquadl.html?1AC00",
 	"difficultyLevel": "12",
 	"dpLevel": "0",
-	"coef": 0.634295
+	"coef": 0.88
 }, {
 	"title": "SOLID STATE SQUAD",
 	"wr": 3624,
@@ -2807,7 +2807,7 @@
 	"coef": 0.742305
 }, {
 	"title": "SOLID STATE SQUAD -RISEN RELIC REMIX-",
-	"wr": 3314,
+	"wr": 3316,
 	"avg": 2857,
 	"difficulty": "4",
 	"notes": 1670,
@@ -2815,7 +2815,7 @@
 	"textage": "28/sss_rrr.html?1AC00",
 	"difficultyLevel": "12",
 	"dpLevel": "0",
-	"coef": 0.864475
+	"coef": 0.834787
 }, {
 	"title": "Sounds Of Summer",
 	"wr": 3020,
@@ -2859,7 +2859,7 @@
 	"textage": "11/spiral_l.html?1AC00",
 	"difficultyLevel": "12",
 	"dpLevel": "0",
-	"coef": 0.676652
+	"coef": 0.88
 }, {
 	"title": "STARLIGHT DANCEHALL",
 	"wr": 3403,
@@ -2870,7 +2870,7 @@
 	"textage": "23/starltdl.html?1AC00",
 	"difficultyLevel": "12",
 	"dpLevel": "0",
-	"coef": 0.682848
+	"coef": 0.88
 }, {
 	"title": "Steel Edge",
 	"wr": 3205,
@@ -2881,7 +2881,7 @@
 	"textage": "24/steledge.html?1AC00",
 	"difficultyLevel": "12",
 	"dpLevel": "0",
-	"coef": 0.569482
+	"coef": 0.88
 }, {
 	"title": "STEEL NEEDLE",
 	"difficulty": "10",
@@ -3024,7 +3024,7 @@
 	"textage": "26/t_jubila.html?1AC00",
 	"difficultyLevel": "12",
 	"dpLevel": "0",
-	"coef": 0.655982
+	"coef": 0.88
 }, {
 	"title": "THE DEEP STRIKER",
 	"wr": 3552,
@@ -3035,7 +3035,7 @@
 	"textage": "15/tdeepstl.html?1AC00",
 	"difficultyLevel": "12",
 	"dpLevel": "0",
-	"coef": 0.665273
+	"coef": 0.88
 }, {
 	"title": "THE F∀UST",
 	"wr": 3667,
@@ -3134,7 +3134,7 @@
 	"textage": "19/thunbolt.html?1AC00",
 	"difficultyLevel": "12",
 	"dpLevel": "0",
-	"coef": 0.615608
+	"coef": 0.88
 }, {
 	"title": "TIEFSEE",
 	"wr": 3499,
@@ -3148,7 +3148,7 @@
 	"coef": 0.975266
 }, {
 	"title": "Tiempo Loco",
-	"wr": 3730,
+	"wr": 3752,
 	"avg": 3172,
 	"difficulty": "4",
 	"notes": 1884,
@@ -3156,7 +3156,7 @@
 	"textage": "28/tiempolc.html?1AC00",
 	"difficultyLevel": "12",
 	"dpLevel": "0",
-	"coef": 1.077353
+	"coef": 0.868984
 }, {
 	"title": "Timepiece phase II",
 	"wr": 3310,
@@ -3332,7 +3332,7 @@
 	"textage": "5/v_taka.html?1AC00",
 	"difficultyLevel": "12",
 	"dpLevel": "0",
-	"coef": 0.60243
+	"coef": 0.88
 }, {
 	"title": "Valanga",
 	"wr": 3285,
@@ -3412,15 +3412,15 @@
 	"coef": 0.864411
 }, {
 	"title": "Viridian",
-	"wr": 3381,
+	"wr": 3389,
 	"avg": 2934,
 	"difficulty": "4",
 	"notes": 1700,
 	"bpm": "161",
-	"textage": "28/vitrum.html?1AC00",
+	"textage": "28/viridian.html?2AC20",
 	"difficultyLevel": "12",
 	"dpLevel": "0",
-	"coef": 1.085636
+	"coef": 0.945472
 }, {
 	"title": "Visterhv",
 	"wr": 3731,
@@ -3620,7 +3620,7 @@
 	"textage": "20/zirkfied.html?1AC00",
 	"difficultyLevel": "12",
 	"dpLevel": "0",
-	"coef": 0.693192
+	"coef": 0.88
 }, {
 	"title": "ZZ",
 	"wr": 3075,
@@ -3686,7 +3686,7 @@
 	"textage": "13/_kagono.html?1AC00",
 	"difficultyLevel": "12",
 	"dpLevel": "0",
-	"coef": 0.695864
+	"coef": 0.88
 }, {
 	"title": "がっつり陰キャ!? 怪盗いいんちょの億劫^^;",
 	"wr": 4323,
@@ -3744,7 +3744,7 @@
 	"coef": 0.802507
 }, {
 	"title": "スーパー戦湯ババンバーン",
-	"wr": 3473,
+	"wr": 3482,
 	"avg": 3005,
 	"difficulty": "4",
 	"notes": 1755,
@@ -3777,7 +3777,7 @@
 	"coef": 0.977024
 }, {
 	"title": "ディスコルディア",
-	"wr": 3991,
+	"wr": 4034,
 	"avg": 2968,
 	"difficulty": "4",
 	"notes": 2073,
@@ -3785,7 +3785,7 @@
 	"textage": "28/_dscrdia.html?1AC00",
 	"difficultyLevel": "12",
 	"dpLevel": "0",
-	"coef": 1.086229
+	"coef": 1.006632
 }, {
 	"title": "トリカゴノ鳳凰",
 	"wr": 3852,
@@ -3799,7 +3799,7 @@
 	"coef": 0.701611
 }, {
 	"title": "バッド・スイーツ、バッド・ドリーム",
-	"wr": 3648,
+	"wr": 3676,
 	"avg": 2926,
 	"difficulty": "4",
 	"notes": 1862,
@@ -3807,7 +3807,7 @@
 	"textage": "28/_badswts.html?1AC00",
 	"difficultyLevel": "12",
 	"dpLevel": "0",
-	"coef": 0.893259
+	"coef": 0.893258
 }, {
 	"title": "ピアノ協奏曲第１番”蠍火”",
 	"wr": 2770,
@@ -4027,7 +4027,7 @@
 	"textage": "18/_krokami.html?1AC00",
 	"difficultyLevel": "12",
 	"dpLevel": "0",
-	"coef": 0.577768
+	"coef": 0.88
 }, {
 	"title": "最小三倍完全数",
 	"wr": 2603,
@@ -4195,7 +4195,7 @@
 	"coef": 0.848226
 }, {
 	"title": "世界の果てに約束の凱歌を -ReUnion-",
-	"wr": 3939,
+	"wr": 3943,
 	"avg": 3315,
 	"difficulty": "4",
 	"notes": 1983,
@@ -4349,7 +4349,7 @@
 	"coef": 0.944962
 }, {
 	"title": "二人ノ廃城幽踊宴",
-	"wr": 3657,
+	"wr": 3748,
 	"avg": 2702,
 	"difficulty": "4",
 	"notes": 1927,
@@ -4357,7 +4357,7 @@
 	"textage": "28/_a_rvnant.html?1AC00",
 	"difficultyLevel": "12",
 	"dpLevel": "0",
-	"coef": 0.815605
+	"coef": 0.815604
 }, {
 	"title": "廿",
 	"wr": 3412,
@@ -4371,7 +4371,7 @@
 	"coef": 0.923171
 }, {
 	"title": "伐折羅-vajra-",
-	"wr": 3708,
+	"wr": 3719,
 	"avg": 3095,
 	"difficulty": "4",
 	"notes": 1877,
@@ -4492,7 +4492,7 @@
 	"coef": 1.096248
 }, {
 	"title": "閠槞彁の願い",
-	"wr": 3172,
+	"wr": 3186,
 	"avg": 2628,
 	"difficulty": "4",
 	"notes": 1613,
@@ -4555,7 +4555,7 @@
 	"textage": "29/oneforal.html?1AC00",
 	"difficultyLevel": "12",
 	"dpLevel": "0",
-	"coef": 0.584486
+	"coef": 0.88
 }, {
 	"title": "Ypsilon",
 	"wr": 3580,
@@ -4643,7 +4643,7 @@
 	"textage": "29/_misogi.html?1AC00",
 	"difficultyLevel": "12",
 	"dpLevel": "0",
-	"coef": 0.984048
+	"coef": 0.984047
 }, {
 	"title": "Angel's Ladder",
 	"wr": 3542,
@@ -4756,15 +4756,15 @@
 	"coef": 0.820996
 }, {
 	"title": "n/a",
-	"wr": -1,
-	"avg": -1,
+	"wr": 3583,
+	"avg": 1724,
 	"difficulty": "4",
 	"notes": 1867,
 	"bpm": "85-255",
 	"textage": "29/n_a.html?1AC00",
 	"difficultyLevel": "12",
 	"dpLevel": "0",
-	"coef": -1
+	"coef": 1.038744
 }, {
 	"title": "烽火連天の刃",
 	"wr": 3498,
@@ -4797,7 +4797,7 @@
 	"textage": "12/script_a.html?1XC00",
 	"difficultyLevel": "12",
 	"dpLevel": "0",
-	"coef": 0.736983
+	"coef": 0.710331
 }, {
 	"title": "Push on Beats!～音ゲの国のeX-ストリーマー～",
 	"wr": 3391,
@@ -4808,7 +4808,7 @@
 	"textage": "29/pushonbt.html?1AC00",
 	"difficultyLevel": "12",
 	"dpLevel": "0",
-	"coef": 0.841894
+	"coef": 0.841893
 }, {
 	"title": "REVOLVER",
 	"difficulty": "10",
