@@ -5189,15 +5189,15 @@
   },
   {
     "title": "n/a",
-    "wr": 3583,
-    "avg": 1724,
+    "wr": -1,
+    "avg": -1,
     "difficulty": "4",
     "notes": 1867,
     "bpm": "85-255",
     "textage": "29/n_a.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.038744
+    "coef": -1
   },
   {
     "title": "烽火連天の刃",
