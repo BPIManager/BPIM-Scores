@@ -5294,5 +5294,41 @@
     "difficultyLevel": "12",
     "dpLevel": "0",
     "coef": -1
+  },
+  {
+    "title": "天邪鬼",
+    "wr": -1,
+    "avg": -1,
+    "difficulty": "4",
+    "notes": 1693,
+    "bpm": "155",
+    "textage": "29/_amanojk.html?1AC00",
+    "difficultyLevel": "12",
+    "dpLevel": "0",
+    "coef": -1
+  },
+  {
+    "title": "Flying Castle",
+    "wr": -1,
+    "avg": -1,
+    "difficulty": "4",
+    "notes": 1877,
+    "bpm": "174",
+    "textage": "29/flcastle.html?1AC00",
+    "difficultyLevel": "12",
+    "dpLevel": "0",
+    "coef": -1
+  },
+  {
+    "title": "WHA",
+    "wr": -1,
+    "avg": -1,
+    "difficulty": "4",
+    "notes": 1946,
+    "bpm": "108",
+    "textage": "29/wha.html?1AC00",
+    "difficultyLevel": "12",
+    "dpLevel": "0",
+    "coef": -1
   }
 ]

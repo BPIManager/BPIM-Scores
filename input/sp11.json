@@ -6006,7 +6006,31 @@
     "difficulty": "10",
     "notes": 1150,
     "bpm": "150",
-    "textage": "26/",
+    "textage": "26/psysheep.html?1XB00",
+    "difficultyLevel": "11",
+    "dpLevel": "0",
+    "coef": -1
+  },
+  {
+    "title": "Emera",
+    "wr": -1,
+    "avg": -1,
+    "difficulty": "4",
+    "notes": 1179,
+    "bpm": "161",
+    "textage": "29/emera.html?1AB00",
+    "difficultyLevel": "11",
+    "dpLevel": "0",
+    "coef": -1
+  },
+  {
+    "title": "Pout",
+    "wr": -1,
+    "avg": -1,
+    "difficulty": "4",
+    "notes": 1317,
+    "bpm": "170",
+    "textage": "29/pout.html?1AB00",
     "difficultyLevel": "11",
     "dpLevel": "0",
     "coef": -1
