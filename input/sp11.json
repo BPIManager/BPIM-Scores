@@ -6046,5 +6046,17 @@
     "difficultyLevel": "11",
     "dpLevel": "0",
     "coef": -1
+  },
+  {
+    "title": "WISE UP!",
+    "wr": -1,
+    "avg": -1,
+    "difficulty": "10",
+    "notes": 1320,
+    "bpm": "127",
+    "textage": "18/wise_up.html?1XB00",
+    "difficultyLevel": "11",
+    "dpLevel": "0",
+    "coef": -1
   }
 ]
