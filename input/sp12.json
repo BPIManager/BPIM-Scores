@@ -1167,7 +1167,7 @@
   },
   {
     "title": "Everlasting Message",
-    "wr": 3809,
+    "wr": 3887,
     "avg": 2988,
     "difficulty": "4",
     "notes": 1970,
@@ -1175,7 +1175,7 @@
     "textage": "27/evermesg.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 0.933259
+    "coef": 0.932977
   },
   {
     "title": "EXUSIA",
@@ -5237,15 +5237,15 @@
   },
   {
     "title": "Push on Beats!～音ゲの国のeX-ストリーマー～",
-    "wr": 3391,
-    "avg": 2862,
+    "wr": 3455,
+    "avg": 2889,
     "difficulty": "4",
     "notes": 1748,
     "bpm": "164-172",
     "textage": "29/pushonbt.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 0.841893
+    "coef": 0.821138
   },
   {
     "title": "REVOLVER",
