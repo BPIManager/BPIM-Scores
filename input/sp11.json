@@ -6070,5 +6070,17 @@
     "difficultyLevel": "11",
     "dpLevel": "0",
     "coef": -1
+  },
+  {
+    "title": "GIGANT",
+    "wr": -1,
+    "avg": -1,
+    "difficulty": "10",
+    "notes": 1484,
+    "bpm": "140",
+    "textage": "19/gigant.html?1XB00",
+    "difficultyLevel": "11",
+    "dpLevel": "0",
+    "coef": -1
   }
 ]
