@@ -5381,15 +5381,15 @@
   },
   {
     "title": "Umbral",
-    "wr": 3124,
-    "avg": 2754,
+    "wr": -1,
+    "avg": -1,
     "difficulty": "10",
     "notes": 1566,
     "bpm": "138",
     "textage": "24/umbral.html?1XC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": "0.627150"
+    "coef": "-1"
   },
   {
     "title": "華爛漫 -Flowers-",
