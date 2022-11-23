@@ -1,6 +1,6 @@
 {
-  "version": 202211191,
-  "requireVersion": "86",
+  "version": 20221123,
+  "requireVersion": "87",
   "body": [
     {
       "title": "(This Is Not) The Angels",
@@ -6588,7 +6588,7 @@
       "textage": "15/anisakis.html?1XC00",
       "difficultyLevel": "12",
       "dpLevel": "0",
-      "coef": -1
+      "coef": 0.85379
     },
     {
       "title": "Antigravity",
