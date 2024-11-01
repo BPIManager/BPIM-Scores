@@ -585,7 +585,9 @@
     "textage": "25/beastmod.html?1AB00",
     "difficultyLevel": "11",
     "dpLevel": "0",
-    "coef": -1
+    "coef": -1,
+    "removed": true,
+    "delVer": 31
   },
   {
     "title": "Beastie Starter",
@@ -777,7 +779,9 @@
     "textage": "28/brkrules.html?1AB00",
     "difficultyLevel": "11",
     "dpLevel": "0",
-    "coef": -1
+    "coef": -1,
+    "removed": true,
+    "delVer": 31
   },
   {
     "title": "Broadbanded",
@@ -1065,7 +1069,9 @@
     "textage": "28/connect_.html?1AB00",
     "difficultyLevel": "11",
     "dpLevel": "0",
-    "coef": -1
+    "coef": -1,
+    "removed": true,
+    "delVer": 32
   },
   {
     "title": "CONTRACT",
@@ -1221,7 +1227,9 @@
     "textage": "21/darkfall.html?1AB00",
     "difficultyLevel": "11",
     "dpLevel": "0",
-    "coef": -1
+    "coef": -1,
+    "removed": true,
+    "delVer": 32
   },
   {
     "title": "DAWN -THE NEXT ENDEAVOUR-",
@@ -1377,7 +1385,9 @@
     "textage": "27/dropit.html?1AB00",
     "difficultyLevel": "11",
     "dpLevel": "0",
-    "coef": -1
+    "coef": -1,
+    "removed": true,
+    "delVer": 32
   },
   {
     "title": "Egret and Willow",
@@ -3301,7 +3311,9 @@
     "textage": "24/risehawk.html?1AB00",
     "difficultyLevel": "11",
     "dpLevel": "0",
-    "coef": -1
+    "coef": -1,
+    "removed": true,
+    "delVer": 31
   },
   {
     "title": "Rising in the Sun(original mix)",
@@ -3589,7 +3601,9 @@
     "textage": "28/scandal.html?1AB00",
     "difficultyLevel": "11",
     "dpLevel": "0",
-    "coef": -1
+    "coef": -1,
+    "removed": true,
+    "delVer": 32
   },
   {
     "title": "Scarlet Moon",
@@ -3697,7 +3711,9 @@
     "textage": "23/sei_teri.html?1AB00",
     "difficultyLevel": "11",
     "dpLevel": "0",
-    "coef": -1
+    "coef": -1,
+    "removed": true,
+    "delVer": 31
   },
   {
     "title": "Sense 2007",
@@ -4301,7 +4317,9 @@
     "textage": "26/usa.html?1AB00",
     "difficultyLevel": "11",
     "dpLevel": "0",
-    "coef": -1
+    "coef": -1,
+    "removed": true,
+    "delVer": 32
   },
   {
     "title": "Ubertreffen",
@@ -5659,7 +5677,9 @@
     "textage": "28/brahma.html?1AB00",
     "difficultyLevel": "11",
     "dpLevel": "0",
-    "coef": -1
+    "coef": -1,
+    "removed": true,
+    "delVer": 31
   },
   {
     "title": "DREAM OF SPACE UFO ABDUCTION",
@@ -6007,7 +6027,9 @@
     "textage": "29/legendtr.html?1AB00",
     "difficultyLevel": "11",
     "dpLevel": "0",
-    "coef": -1
+    "coef": -1,
+    "removed": true,
+    "delVer": 32
   },
   {
     "title": "Psycho Sheep Riddim",
@@ -6259,7 +6281,9 @@
     "textage": "30/_itsuoto.html?1AB00",
     "difficultyLevel": "11",
     "dpLevel": "0",
-    "coef": -1
+    "coef": -1,
+    "delVer": 31,
+    "removed": true
   },
   {
     "title": "響花水月",
@@ -6581,6 +6605,570 @@
     "notes": 1506,
     "bpm": "158",
     "textage": "30/straitst.html?1AB00",
+    "difficultyLevel": "11",
+    "dpLevel": "0",
+    "coef": -1
+  },
+  {
+    "title": "チェイスチェイスジョーカーズのうた (オニスタイルリミックス)",
+    "difficulty": "4",
+    "wr": -1,
+    "avg": -1,
+    "notes": 1427,
+    "bpm": "200",
+    "textage": "30/_ccj_oni.html?1AB00",
+    "difficultyLevel": "11",
+    "dpLevel": "0",
+    "coef": -1
+  },
+  {
+    "title": "Amethyst",
+    "difficulty": "4",
+    "wr": -1,
+    "avg": -1,
+    "notes": 1322,
+    "bpm": "155",
+    "textage": "31/amethyst.html?1AB00",
+    "difficultyLevel": "11",
+    "dpLevel": "0",
+    "coef": -1
+  },
+  {
+    "title": "Chemical Colours",
+    "difficulty": "4",
+    "wr": -1,
+    "avg": -1,
+    "notes": 1416,
+    "bpm": "175",
+    "textage": "31/chemiclr.html?1AB00",
+    "difficultyLevel": "11",
+    "dpLevel": "0",
+    "coef": -1
+  },
+  {
+    "title": "CODE:2",
+    "difficulty": "4",
+    "wr": -1,
+    "avg": -1,
+    "notes": 1491,
+    "bpm": "155",
+    "textage": "31/code_2.html?1AB00",
+    "difficultyLevel": "11",
+    "dpLevel": "0",
+    "coef": -1
+  },
+  {
+    "title": "DAZZLE ATTACK",
+    "difficulty": "4",
+    "wr": -1,
+    "avg": -1,
+    "notes": 1435,
+    "bpm": "175",
+    "textage": "31/dazzleat.html?1AB00",
+    "difficultyLevel": "11",
+    "dpLevel": "0",
+    "coef": -1
+  },
+  {
+    "title": "Echoes of Sunfall",
+    "difficulty": "4",
+    "wr": -1,
+    "avg": -1,
+    "notes": 1518,
+    "bpm": "160",
+    "textage": "31/esunfall.html?1AB00",
+    "difficultyLevel": "11",
+    "dpLevel": "0",
+    "coef": -1
+  },
+  {
+    "title": "Get Higher",
+    "difficulty": "4",
+    "wr": -1,
+    "avg": -1,
+    "notes": 1171,
+    "bpm": "170",
+    "textage": "31/gethighr.html?1AB00",
+    "difficultyLevel": "11",
+    "dpLevel": "0",
+    "coef": -1
+  },
+  {
+    "title": "GloriosA",
+    "difficulty": "4",
+    "wr": -1,
+    "avg": -1,
+    "notes": 1437,
+    "bpm": "175",
+    "textage": "31/gloriosa.html?1AB00",
+    "difficultyLevel": "11",
+    "dpLevel": "0",
+    "coef": -1
+  },
+  {
+    "title": "GLORIOUS HAMMER",
+    "difficulty": "4",
+    "wr": -1,
+    "avg": -1,
+    "notes": 1587,
+    "bpm": "155-160",
+    "textage": "31/glhammer.html?1AB00",
+    "difficultyLevel": "11",
+    "dpLevel": "0",
+    "coef": -1
+  },
+  {
+    "title": "Hat Surprise (Season 3)",
+    "difficulty": "4",
+    "wr": -1,
+    "avg": -1,
+    "notes": 1384,
+    "bpm": "180",
+    "textage": "31/hatsurp3.html?1AB00",
+    "difficultyLevel": "11",
+    "dpLevel": "0",
+    "coef": -1
+  },
+  {
+    "title": "i-ii",
+    "difficulty": "4",
+    "wr": -1,
+    "avg": -1,
+    "notes": 1499,
+    "bpm": "155",
+    "textage": "31/i_ii.html?1AB00",
+    "difficultyLevel": "11",
+    "dpLevel": "0",
+    "coef": -1
+  },
+  {
+    "title": "INHERITANCE",
+    "difficulty": "4",
+    "wr": -1,
+    "avg": -1,
+    "notes": 1432,
+    "bpm": "180",
+    "textage": "31/inherita.html?1AB00",
+    "difficultyLevel": "11",
+    "dpLevel": "0",
+    "coef": -1
+  },
+  {
+    "title": "Just Gimme",
+    "difficulty": "4",
+    "wr": -1,
+    "avg": -1,
+    "notes": 1393,
+    "bpm": "178",
+    "textage": "31/justgime.html?1AB00",
+    "difficultyLevel": "11",
+    "dpLevel": "0",
+    "coef": -1
+  },
+  {
+    "title": "Monkey Business",
+    "difficulty": "4",
+    "wr": -1,
+    "avg": -1,
+    "notes": 1324,
+    "bpm": "80-160",
+    "textage": "31/monkeybs.html?1AB00",
+    "difficultyLevel": "11",
+    "dpLevel": "0",
+    "coef": -1
+  },
+  {
+    "title": "Mukade",
+    "difficulty": "4",
+    "wr": -1,
+    "avg": -1,
+    "notes": 1645,
+    "bpm": "160",
+    "textage": "31/mukade.html?1AB00",
+    "difficultyLevel": "11",
+    "dpLevel": "0",
+    "coef": -1
+  },
+  {
+    "title": "out of disk space",
+    "difficulty": "4",
+    "wr": -1,
+    "avg": -1,
+    "notes": 1305,
+    "bpm": "165-190",
+    "textage": "31/out_disk.html?1AB00",
+    "difficultyLevel": "11",
+    "dpLevel": "0",
+    "coef": -1
+  },
+  {
+    "title": "PILGRIM",
+    "difficulty": "4",
+    "wr": -1,
+    "avg": -1,
+    "notes": 1381,
+    "bpm": "150",
+    "textage": "31/pilgrim.html?1AB00",
+    "difficultyLevel": "11",
+    "dpLevel": "0",
+    "coef": -1
+  },
+  {
+    "title": "Psychedelic Intelligence",
+    "difficulty": "4",
+    "wr": -1,
+    "avg": -1,
+    "notes": 1448,
+    "bpm": "150",
+    "textage": "31/psychint.html?1AB00",
+    "difficultyLevel": "11",
+    "dpLevel": "0",
+    "coef": -1
+  },
+  {
+    "title": "Red Determination",
+    "difficulty": "4",
+    "wr": -1,
+    "avg": -1,
+    "notes": 1355,
+    "bpm": "180",
+    "textage": "31/redeterm.html?1AB00",
+    "difficultyLevel": "11",
+    "dpLevel": "0",
+    "coef": -1
+  },
+  {
+    "title": "See You Again",
+    "difficulty": "4",
+    "wr": -1,
+    "avg": -1,
+    "notes": 1584,
+    "bpm": "175",
+    "textage": "31/seeyouag.html?1AB00",
+    "difficultyLevel": "11",
+    "dpLevel": "0",
+    "coef": -1
+  },
+  {
+    "title": "Speculation",
+    "difficulty": "4",
+    "wr": -1,
+    "avg": -1,
+    "notes": 1530,
+    "bpm": "190",
+    "textage": "31/speculat.html?1AB00",
+    "difficultyLevel": "11",
+    "dpLevel": "0",
+    "coef": -1
+  },
+  {
+    "title": "squall",
+    "difficulty": "4",
+    "wr": -1,
+    "avg": -1,
+    "notes": 1369,
+    "bpm": "190",
+    "textage": "31/squall.html?1AB00",
+    "difficultyLevel": "11",
+    "dpLevel": "0",
+    "coef": -1
+  },
+  {
+    "title": "Submerge Serenade",
+    "difficulty": "4",
+    "wr": -1,
+    "avg": -1,
+    "notes": 1486,
+    "bpm": "157",
+    "textage": "31/submerge.html?1AB00",
+    "difficultyLevel": "11",
+    "dpLevel": "0",
+    "coef": -1
+  },
+  {
+    "title": "T.R.O.L.L.",
+    "difficulty": "4",
+    "wr": -1,
+    "avg": -1,
+    "notes": 1329,
+    "bpm": "100-160",
+    "textage": "31/troll.html?1AB00",
+    "difficultyLevel": "11",
+    "dpLevel": "0",
+    "coef": -1
+  },
+  {
+    "title": "This Is Club Musik feat. 大久保紅葉",
+    "difficulty": "4",
+    "wr": -1,
+    "avg": -1,
+    "notes": 1343,
+    "bpm": "165",
+    "textage": "31/tclubmzk.html?1AB00",
+    "difficultyLevel": "11",
+    "dpLevel": "0",
+    "coef": -1
+  },
+  {
+    "title": "Time Distortion pt.2(IIDX Edit)",
+    "difficulty": "4",
+    "wr": -1,
+    "avg": -1,
+    "notes": 1492,
+    "bpm": "150",
+    "textage": "31/timedist.html?1AB00",
+    "difficultyLevel": "11",
+    "dpLevel": "0",
+    "coef": -1
+  },
+  {
+    "title": "TRIP THE DEEP",
+    "difficulty": "4",
+    "wr": -1,
+    "avg": -1,
+    "notes": 1289,
+    "bpm": "135",
+    "textage": "31/tripdeep.html?1AB00",
+    "difficultyLevel": "11",
+    "dpLevel": "0",
+    "coef": -1
+  },
+  {
+    "title": "winkle 2 winkle",
+    "difficulty": "4",
+    "wr": -1,
+    "avg": -1,
+    "notes": 1408,
+    "bpm": "171",
+    "textage": "31/winkle2w.html?1AB00",
+    "difficultyLevel": "11",
+    "dpLevel": "0",
+    "coef": -1
+  },
+  {
+    "title": "20XX",
+    "difficulty": "4",
+    "wr": -1,
+    "avg": -1,
+    "notes": 1370,
+    "bpm": "180",
+    "textage": "31/20xx.html?1AB00",
+    "difficultyLevel": "11",
+    "dpLevel": "0",
+    "coef": -1
+  },
+  {
+    "title": "雫",
+    "difficulty": "4",
+    "wr": -1,
+    "avg": -1,
+    "notes": 1361,
+    "bpm": "95-210",
+    "textage": "31/_shizuku.html?1AB00",
+    "difficultyLevel": "11",
+    "dpLevel": "0",
+    "coef": -1
+  },
+  {
+    "title": "寝起きヤシの木",
+    "difficulty": "4",
+    "wr": -1,
+    "avg": -1,
+    "notes": 160,
+    "bpm": "1411",
+    "textage": "31/_neokiys.html?1AB00",
+    "difficultyLevel": "11",
+    "dpLevel": "0",
+    "coef": -1
+  },
+  {
+    "title": "果たせぬ約束 ft. 小林マナ",
+    "difficulty": "4",
+    "wr": -1,
+    "avg": -1,
+    "notes": 1515,
+    "bpm": "164",
+    "textage": "31/_hatasen.html?1AB00",
+    "difficultyLevel": "11",
+    "dpLevel": "0",
+    "coef": -1
+  },
+  {
+    "title": "フォニイ",
+    "difficulty": "4",
+    "wr": -1,
+    "avg": -1,
+    "notes": 1454,
+    "bpm": "170",
+    "textage": "31/_phony.html?1AB00",
+    "difficultyLevel": "11",
+    "dpLevel": "0",
+    "coef": -1
+  },
+  {
+    "title": "マーシャル・マキシマイザー",
+    "difficulty": "4",
+    "wr": -1,
+    "avg": -1,
+    "notes": 1082,
+    "bpm": "190",
+    "textage": "31/_marsmax.html?1AB00",
+    "difficultyLevel": "11",
+    "dpLevel": "0",
+    "coef": -1
+  },
+  {
+    "title": "めうめうぺったんたん！！ (ZAQUVA Remix)",
+    "difficulty": "4",
+    "wr": -1,
+    "avg": -1,
+    "notes": 1419,
+    "bpm": "200",
+    "textage": "31/_meumeuz.html?1AB00",
+    "difficultyLevel": "11",
+    "dpLevel": "0",
+    "coef": -1
+  },
+  {
+    "title": "勇者",
+    "difficulty": "4",
+    "wr": -1,
+    "avg": -1,
+    "notes": 1245,
+    "bpm": "210",
+    "textage": "31/_yuusha.html?1AB00",
+    "difficultyLevel": "11",
+    "dpLevel": "0",
+    "coef": -1
+  },
+  {
+    "title": "夢縁",
+    "difficulty": "4",
+    "wr": -1,
+    "avg": -1,
+    "notes": 1515,
+    "bpm": "162",
+    "textage": "31/_ymenisi.html?1AB00",
+    "difficultyLevel": "11",
+    "dpLevel": "0",
+    "coef": -1
+  },
+  {
+    "title": "ラビットホール",
+    "difficulty": "4",
+    "wr": -1,
+    "avg": -1,
+    "notes": 1471,
+    "bpm": "173",
+    "textage": "31/_rabbith.html?1AB00",
+    "difficultyLevel": "11",
+    "dpLevel": "0",
+    "coef": -1
+  },
+  {
+    "title": "たからもの",
+    "difficulty": "4",
+    "wr": -1,
+    "avg": -1,
+    "notes": 1786,
+    "bpm": "182",
+    "textage": "17/_takara.html?1XB00",
+    "difficultyLevel": "11",
+    "dpLevel": "0",
+    "coef": -1
+  },
+  {
+    "title": "オドループ",
+    "difficulty": "4",
+    "wr": -1,
+    "avg": -1,
+    "notes": 1500,
+    "bpm": "172",
+    "textage": "29/_oddloop.html?1XB00",
+    "difficultyLevel": "11",
+    "dpLevel": "0",
+    "coef": -1
+  },
+  {
+    "title": "ZERO-ONE",
+    "difficulty": "4",
+    "wr": -1,
+    "avg": -1,
+    "notes": 1448,
+    "bpm": "160",
+    "textage": "7/zeroone.html?1XB00",
+    "difficultyLevel": "11",
+    "dpLevel": "0",
+    "coef": -1
+  },
+  {
+    "title": "Star Trail",
+    "difficulty": "4",
+    "wr": -1,
+    "avg": -1,
+    "notes": 1325,
+    "bpm": "148",
+    "textage": "19/strtrail.html?1XB00",
+    "difficultyLevel": "11",
+    "dpLevel": "0",
+    "coef": -1
+  },
+  {
+    "title": "STARLIGHT JUNCTION",
+    "difficulty": "4",
+    "wr": -1,
+    "avg": -1,
+    "notes": 1462,
+    "bpm": "160",
+    "textage": "25/starjunc.html?1XB00",
+    "difficultyLevel": "11",
+    "dpLevel": "0",
+    "coef": -1
+  },
+  {
+    "title": "neogenesis",
+    "difficulty": "4",
+    "wr": -1,
+    "avg": -1,
+    "notes": 1180,
+    "bpm": "151",
+    "textage": "16/neogenes.html?1XB00",
+    "difficultyLevel": "11",
+    "dpLevel": "0",
+    "coef": -1
+  },
+  {
+    "title": "MAD ATTACK",
+    "difficulty": "4",
+    "wr": -1,
+    "avg": -1,
+    "notes": 1396,
+    "bpm": "140",
+    "textage": "21/madatack.html?1XC00",
+    "difficultyLevel": "11",
+    "dpLevel": "0",
+    "coef": -1
+  },
+  {
+    "title": "Explorer feat. ぷにぷに電機",
+    "difficulty": "4",
+    "wr": -1,
+    "avg": -1,
+    "notes": 1461,
+    "bpm": "131",
+    "textage": "28/explorer.html?1XB00",
+    "difficultyLevel": "11",
+    "dpLevel": "0",
+    "coef": -1
+  },
+  {
+    "title": "BLUST OF WIND",
+    "difficulty": "4",
+    "wr": -1,
+    "avg": -1,
+    "notes": 1335,
+    "bpm": "145",
+    "textage": "18/blstwind.html?1XB00",
     "difficultyLevel": "11",
     "dpLevel": "0",
     "coef": -1
