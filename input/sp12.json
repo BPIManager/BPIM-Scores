@@ -758,6 +758,18 @@
     "coef": 0.79188
   },
   {
+    "title": "Dances with Snow Fairies",
+    "wr": -1,
+    "avg": -1,
+    "difficulty": "10",
+    "notes": 2135,
+    "bpm": "154",
+    "textage": "18/dancwith.html?1XC00",
+    "difficultyLevel": "12",
+    "dpLevel": "0",
+    "coef": -1
+  },
+  {
     "title": "Dans la nuit de l'eternite",
     "wr": 3541,
     "avg": 2817,
@@ -3760,6 +3772,30 @@
     "coef": 0.739651
   },
   {
+    "title": "#CMFLG",
+    "wr": -1,
+    "avg": -1,
+    "difficulty": "4",
+    "notes": 1748,
+    "bpm": "155",
+    "textage": "30/_cmflg.html?1AC00",
+    "difficultyLevel": "12",
+    "dpLevel": "0",
+    "coef": -1
+  },
+  {
+    "title": "VOID",
+    "wr": -1,
+    "avg": -1,
+    "difficulty": "4",
+    "notes": 1712,
+    "bpm": "80-170",
+    "textage": "30/vo_id.html?1AC00",
+    "difficultyLevel": "12",
+    "dpLevel": "0",
+    "coef": -1
+  },
+  {
     "title": "voltississimo",
     "wr": 3727,
     "avg": 2933,
@@ -4312,6 +4348,18 @@
     "difficultyLevel": "12",
     "dpLevel": "0",
     "coef": 0.8294
+  },
+  {
+    "title": "海神",
+    "wr": -1,
+    "avg": -1,
+    "difficulty": "10",
+    "notes": 1830,
+    "bpm": "159",
+    "textage": "21/_wadatmi.html?1XC00",
+    "difficultyLevel": "12",
+    "dpLevel": "0",
+    "coef": -1
   },
   {
     "title": "共鳴遊戯の華",
@@ -6550,6 +6598,18 @@
     "coef": -1
   },
   {
+    "title": "O/D*20",
+    "difficulty": "10",
+    "wr": -1,
+    "avg": -1,
+    "notes": 1984,
+    "bpm": "155",
+    "textage": "25/o_d_20.html?1XC00",
+    "difficultyLevel": "12",
+    "dpLevel": "0",
+    "coef": -1
+  },
+  {
     "title": "Saturn",
     "difficulty": "10",
     "wr": -1,
@@ -6653,6 +6713,18 @@
     "notes": 2023,
     "bpm": "144",
     "textage": "26/_mausole.html?1XC00",
+    "difficultyLevel": "12",
+    "dpLevel": "0",
+    "coef": -1
+  },
+  {
+    "title": "MAD ATTACK",
+    "difficulty": "10",
+    "wr": -1,
+    "avg": -1,
+    "notes": 1396,
+    "bpm": "140",
+    "textage": "21/madatack.html?1XC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
     "coef": -1

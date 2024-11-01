@@ -7067,7 +7067,7 @@
   },
   {
     "title": "たからもの",
-    "difficulty": "4",
+    "difficulty": "10",
     "wr": -1,
     "avg": -1,
     "notes": 1786,
@@ -7079,7 +7079,7 @@
   },
   {
     "title": "オドループ",
-    "difficulty": "4",
+    "difficulty": "10",
     "wr": -1,
     "avg": -1,
     "notes": 1500,
@@ -7091,7 +7091,7 @@
   },
   {
     "title": "ZERO-ONE",
-    "difficulty": "4",
+    "difficulty": "10",
     "wr": -1,
     "avg": -1,
     "notes": 1448,
@@ -7103,7 +7103,7 @@
   },
   {
     "title": "Star Trail",
-    "difficulty": "4",
+    "difficulty": "10",
     "wr": -1,
     "avg": -1,
     "notes": 1325,
@@ -7115,7 +7115,7 @@
   },
   {
     "title": "STARLIGHT JUNCTION",
-    "difficulty": "4",
+    "difficulty": "10",
     "wr": -1,
     "avg": -1,
     "notes": 1462,
@@ -7127,7 +7127,7 @@
   },
   {
     "title": "neogenesis",
-    "difficulty": "4",
+    "difficulty": "10",
     "wr": -1,
     "avg": -1,
     "notes": 1180,
@@ -7138,20 +7138,8 @@
     "coef": -1
   },
   {
-    "title": "MAD ATTACK",
-    "difficulty": "4",
-    "wr": -1,
-    "avg": -1,
-    "notes": 1396,
-    "bpm": "140",
-    "textage": "21/madatack.html?1XC00",
-    "difficultyLevel": "11",
-    "dpLevel": "0",
-    "coef": -1
-  },
-  {
     "title": "Explorer feat. ぷにぷに電機",
-    "difficulty": "4",
+    "difficulty": "10",
     "wr": -1,
     "avg": -1,
     "notes": 1461,
@@ -7163,7 +7151,7 @@
   },
   {
     "title": "BLUST OF WIND",
-    "difficulty": "4",
+    "difficulty": "10",
     "wr": -1,
     "avg": -1,
     "notes": 1335,
