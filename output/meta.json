@@ -6,7 +6,10 @@
     { "title": "m1dy Festival", "difficulty": "4" },
     { "title": "POL?AMAИIA", "difficulty": "4" },
     { "title": "Shoot'Em All", "difficulty": "4" },
-    { "title": "炸裂！イェーガー電光チョップ！！(JAEGER FINAL ATTACK)", "difficulty": "4" },
+    {
+      "title": "炸裂！イェーガー電光チョップ！！(JAEGER FINAL ATTACK)",
+      "difficulty": "4"
+    },
     { "title": "ELECTRIC MASSIVE DIVER", "difficulty": "4" },
     { "title": "Rise Circuit", "difficulty": "4" },
     { "title": "VOX RUSH", "difficulty": "4" },
@@ -14,6 +17,15 @@
     { "title": "ROZA DE ANDALUCIA", "difficulty": "4" },
     { "title": "", "difficulty": "4" },
     { "title": "ROZA DE ANDALUCIA", "difficulty": "4" },
-    { "title": "Ocean Blue feat. Luschel", "difficulty": "4" }
+    { "title": "Ocean Blue feat. Luschel", "difficulty": "4" },
+    { "title": "デモーニッシュ", "difficulty": "10" },
+    { "title": "3!dolon Forc3", "difficulty": "4" },
+    { "title": "Skreaming for Salvation", "difficulty": "4" },
+    { "title": "Scandal", "difficulty": "4" },
+    { "title": "U.S.A.", "difficulty": "4" },
+    { "title": "CONNECT-", "difficulty": "4" },
+    { "title": "Dark Fall", "difficulty": "4" },
+    { "title": "Drop It", "difficulty": "4" },
+    { "title": "Legendary Treasures", "difficulty": "4" }
   ]
 }
