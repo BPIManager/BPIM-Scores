@@ -3894,8 +3894,8 @@
     "difficulty": "4",
     "wr": 3731,
     "avg": 2827,
-    "notes": 195,
-    "bpm": "1893",
+    "notes": 1893,
+    "bpm": "195",
     "textage": "31/solarecl.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
@@ -6758,8 +6758,8 @@
     "difficulty": "4",
     "wr": 3362,
     "avg": 2946,
-    "notes": 170,
-    "bpm": "1690",
+    "notes": 1690,
+    "bpm": "170",
     "textage": "32/here_now.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
@@ -7256,5 +7256,17 @@
     "difficultyLevel": "12",
     "dpLevel": "0",
     "coef": 0.796694
+  },
+  {
+    "title": "灼熱Beach Side Bunny (かめりあ's \"Summertime D'n'B\" Remix)",
+    "difficulty": "4",
+    "wr": 3278,
+    "avg": 2618,
+    "notes": 1647,
+    "bpm": "174",
+    "textage": "31/_shaku_c.html?1AC00",
+    "difficultyLevel": "12",
+    "dpLevel": "0",
+    "coef": 1.216921
   }
 ]
