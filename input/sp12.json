@@ -7232,5 +7232,29 @@
     "difficultyLevel": "12",
     "dpLevel": "0",
     "coef": 0.662976
+  },
+  {
+    "title": "LIGHTNING STRIKES",
+    "difficulty": "10",
+    "wr": 4227,
+    "avg": 3478,
+    "notes": 2123,
+    "bpm": "174",
+    "textage": "27/lightstr.html?1XC00",
+    "difficultyLevel": "12",
+    "dpLevel": "0",
+    "coef": 0.888223
+  },
+  {
+    "title": "Aqvion",
+    "difficulty": "4",
+    "wr": 3538,
+    "avg": 3134,
+    "notes": 1773,
+    "bpm": "175",
+    "textage": "32/aqvion.html?1AC00",
+    "difficultyLevel": "12",
+    "dpLevel": "0",
+    "coef": 0.796694
   }
 ]
