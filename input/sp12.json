@@ -7220,5 +7220,17 @@
     "difficultyLevel": "12",
     "dpLevel": "0",
     "coef": -1
+  },
+  {
+    "title": "Skratch Education Lv-1",
+    "difficulty": "4",
+    "wr": 3066,
+    "avg": 1954,
+    "notes": 1572,
+    "bpm": "100-200",
+    "textage": "32/skedulv1.html?1AC00",
+    "difficultyLevel": "12",
+    "dpLevel": "0",
+    "coef": 0.662976
   }
 ]
