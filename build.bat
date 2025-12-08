@@ -1,2 +1,2 @@
-node ./main.js build --n 20250915.json --o 202509156 --r 87
+node ./main.js build --n test.json --o 20251208 --r 87
 pause
