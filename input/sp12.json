@@ -9,7 +9,7 @@
     "textage": "7/a_amuro.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 0.82
+    "coef": 1.03
   },
   {
     "title": "AA",
@@ -21,7 +21,7 @@
     "textage": "11/aa_amuro.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.29
+    "coef": 1.17
   },
   {
     "title": "AA -rebuild-",
@@ -33,7 +33,7 @@
     "textage": "25/aa_rebld.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.06
+    "coef": 1.1
   },
   {
     "title": "ABSOLUTE EVIL",
@@ -45,7 +45,7 @@
     "textage": "29/absoevil.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.23
+    "coef": 1.17
   },
   {
     "title": "ACT0",
@@ -57,7 +57,7 @@
     "textage": "31/act0.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.02
+    "coef": 1.07
   },
   {
     "title": "Adularia",
@@ -69,7 +69,7 @@
     "textage": "21/adularia.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 0.99
+    "coef": 1.05
   },
   {
     "title": "Aftermath",
@@ -81,7 +81,7 @@
     "textage": "29/aftrmath.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1
+    "coef": 1.08
   },
   {
     "title": "AIR RAID FROM THA UNDAGROUND",
@@ -93,7 +93,7 @@
     "textage": "17/airraid.html?1XC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.19
+    "coef": 1.18
   },
   {
     "title": "AKASHIC BREAK",
@@ -105,7 +105,7 @@
     "textage": "27/akashicb.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 0.95
+    "coef": 1.06
   },
   {
     "title": "ALBIDA",
@@ -117,7 +117,7 @@
     "textage": "18/albida.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.1
+    "coef": 1.13
   },
   {
     "title": "Almagest",
@@ -129,7 +129,7 @@
     "textage": "17/almag_ra.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.48
+    "coef": 1.27
   },
   {
     "title": "ALTERNATOR",
@@ -141,7 +141,7 @@
     "textage": "29/altnator.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.12
+    "coef": 1.11
   },
   {
     "title": "Always We Trust In You",
@@ -153,7 +153,7 @@
     "textage": "30/alwayswe.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.17
+    "coef": 1.16
   },
   {
     "title": "Amazing Mirage",
@@ -165,7 +165,7 @@
     "textage": "24/amazingl.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.13
+    "coef": 1.16
   },
   {
     "title": "Ambivalent Vermilia",
@@ -177,7 +177,7 @@
     "textage": "31/ambiverm.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.5
+    "coef": 1.28
   },
   {
     "title": "ANCHOR",
@@ -189,7 +189,7 @@
     "textage": "25/anchor.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.11
+    "coef": 1.12
   },
   {
     "title": "Ancient Scapes",
@@ -201,7 +201,7 @@
     "textage": "21/ancients.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.2
+    "coef": 1.21
   },
   {
     "title": "Ancient Scapes",
@@ -213,7 +213,7 @@
     "textage": "21/ancientl.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.2
+    "coef": 1.21
   },
   {
     "title": "Angel's Ladder",
@@ -225,7 +225,7 @@
     "textage": "29/angeladd.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.14
+    "coef": 1.18
   },
   {
     "title": "Anisakis -somatic mutation type\"Forza\"-",
@@ -237,7 +237,7 @@
     "textage": "15/anisakis.html?1XC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.18
+    "coef": 1.16
   },
   {
     "title": "anthracene",
@@ -249,7 +249,7 @@
     "textage": "30/anthracn.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.1
+    "coef": 1.16
   },
   {
     "title": "Antigravity",
@@ -261,7 +261,7 @@
     "textage": "25/antigrav.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.35
+    "coef": 1.25
   },
   {
     "title": "AO-1",
@@ -273,7 +273,7 @@
     "textage": "23/ao_1.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.11
+    "coef": 1.15
   },
   {
     "title": "Apocalypse",
@@ -297,7 +297,7 @@
     "textage": "16/arabian.html?1XC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 0.97
+    "coef": 1.05
   },
   {
     "title": "Arca",
@@ -309,7 +309,7 @@
     "textage": "25/arca.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 0.96
+    "coef": 1.04
   },
   {
     "title": "Arkadia",
@@ -321,7 +321,7 @@
     "textage": "29/arkadia.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.17
+    "coef": 1.16
   },
   {
     "title": "Artist",
@@ -345,7 +345,7 @@
     "textage": "28/asian_vr.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.1
+    "coef": 1.15
   },
   {
     "title": "B.O.D.Y.",
@@ -357,7 +357,7 @@
     "textage": "30/b_o_d_y_.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.05
+    "coef": 1.08
   },
   {
     "title": "Bad Encryption",
@@ -369,7 +369,7 @@
     "textage": "30/badencry.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.3
+    "coef": 1.15
   },
   {
     "title": "Bad Maniacs",
@@ -381,7 +381,7 @@
     "textage": "17/bmaniacs.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.24
+    "coef": 1.18
   },
   {
     "title": "BEAT PRISONER",
@@ -393,7 +393,7 @@
     "textage": "27/btprison.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.23
+    "coef": 1.17
   },
   {
     "title": "Beat Radiance",
@@ -417,7 +417,7 @@
     "textage": "30/beyondev.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.18
+    "coef": 1.13
   },
   {
     "title": "Be quiet",
@@ -429,7 +429,7 @@
     "textage": "11/bequiet.html?1XC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.11
+    "coef": 1.13
   },
   {
     "title": "BIGソムタム",
@@ -441,7 +441,7 @@
     "textage": "28/big_smtm.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.04
+    "coef": 1.08
   },
   {
     "title": "BIGWAVERS",
@@ -453,7 +453,7 @@
     "textage": "30/bigwaver.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.06
+    "coef": 1.11
   },
   {
     "title": "Binary Black Hole",
@@ -465,7 +465,7 @@
     "textage": "29/binarybh.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.12
+    "coef": 1.11
   },
   {
     "title": "BITTER CHOCOLATE STRIKER",
@@ -477,7 +477,7 @@
     "textage": "16/bitchoco.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.29
+    "coef": 1.15
   },
   {
     "title": "BLACK or WHITE?",
@@ -489,7 +489,7 @@
     "textage": "28/blkwhite.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.07
+    "coef": 1.08
   },
   {
     "title": "BLACK.by X-Cross Fade",
@@ -501,7 +501,7 @@
     "textage": "19/blackbyx.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.22
+    "coef": 1.13
   },
   {
     "title": "BLAZING_LAZER",
@@ -513,7 +513,7 @@
     "textage": "31/bl_lazer.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.08
+    "coef": 1.13
   },
   {
     "title": "BLUE DRAGON(雷龍RemixIIDX)",
@@ -525,7 +525,7 @@
     "textage": "21/bldragon.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.06
+    "coef": 1.16
   },
   {
     "title": "BLUE MIRAGE",
@@ -537,7 +537,7 @@
     "textage": "22/b_mirage.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 3
+    "coef": 1.37
   },
   {
     "title": "Blue Rain",
@@ -549,7 +549,7 @@
     "textage": "15/bluerail.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.22
+    "coef": 1.16
   },
   {
     "title": "Blue Spring Express",
@@ -561,7 +561,7 @@
     "textage": "23/blspring.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.25
+    "coef": 1.18
   },
   {
     "title": "Boomy and The Boost",
@@ -573,7 +573,7 @@
     "textage": "25/booboost.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.04
+    "coef": 1.06
   },
   {
     "title": "BroGamer",
@@ -585,7 +585,7 @@
     "textage": "24/brogamer.html?1XC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.13
+    "coef": 1.16
   },
   {
     "title": "Broken",
@@ -597,7 +597,7 @@
     "textage": "18/brokenrb.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 0.99
+    "coef": 1.04
   },
   {
     "title": "Broken Sword",
@@ -609,7 +609,7 @@
     "textage": "22/brokensw.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.19
+    "coef": 1.16
   },
   {
     "title": "Burning Flame",
@@ -621,7 +621,7 @@
     "textage": "28/brnflame.html?1XC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.31
+    "coef": 1.25
   },
   {
     "title": "B4U(BEMANI FOR YOU MIX)",
@@ -633,7 +633,7 @@
     "textage": "16/bemani4u.html?1XC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.24
+    "coef": 1.21
   },
   {
     "title": "CADENZA",
@@ -645,7 +645,7 @@
     "textage": "31/cadenza.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.26
+    "coef": 1.21
   },
   {
     "title": "Candy Galy",
@@ -657,7 +657,7 @@
     "textage": "14/candygal.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.01
+    "coef": 1.08
   },
   {
     "title": "Carmina",
@@ -669,7 +669,7 @@
     "textage": "26/carmina.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.08
+    "coef": 1.09
   },
   {
     "title": "Carry Me Away",
@@ -681,7 +681,7 @@
     "textage": "26/carryme.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.03
+    "coef": 1.08
   },
   {
     "title": "Catch Our Fire!",
@@ -693,7 +693,7 @@
     "textage": "26/catchfir.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1
+    "coef": 1.08
   },
   {
     "title": "Caterpillar",
@@ -705,7 +705,7 @@
     "textage": "24/caterpil.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.05
+    "coef": 1.12
   },
   {
     "title": "Chaotoxin",
@@ -717,7 +717,7 @@
     "textage": "30/chaotoxn.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.01
+    "coef": 1.06
   },
   {
     "title": "CHRONO DIVER -NORNIR-",
@@ -729,7 +729,7 @@
     "textage": "22/chrononl.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.22
+    "coef": 1.2
   },
   {
     "title": "Chrono Diver -PENDULUMs-",
@@ -741,7 +741,7 @@
     "textage": "22/chrono_p.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.29
+    "coef": 1.19
   },
   {
     "title": "cinder",
@@ -753,7 +753,7 @@
     "textage": "22/cinder.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.11
+    "coef": 1.16
   },
   {
     "title": "Close the World feat.a☆ru",
@@ -765,7 +765,7 @@
     "textage": "21/closewld.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.3
+    "coef": 1.24
   },
   {
     "title": "Close the World feat.a☆ru",
@@ -777,7 +777,7 @@
     "textage": "21/closewdl.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.3
+    "coef": 1.24
   },
   {
     "title": "CODE:0",
@@ -789,7 +789,7 @@
     "textage": "23/code_1.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.18
+    "coef": 1.23
   },
   {
     "title": "CODE:1 [revision1.0.1]",
@@ -825,7 +825,7 @@
     "textage": "6/colors.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.09
+    "coef": 1.13
   },
   {
     "title": "Concertino in Blue",
@@ -837,7 +837,7 @@
     "textage": "13/concert.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.04
+    "coef": 1.1
   },
   {
     "title": "Confiserie",
@@ -849,7 +849,7 @@
     "textage": "20/confiser.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.12
+    "coef": 1.1
   },
   {
     "title": "CONTRACT",
@@ -861,7 +861,7 @@
     "textage": "13/contracl.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.16
+    "coef": 1.15
   },
   {
     "title": "Cosmic Cat",
@@ -873,7 +873,7 @@
     "textage": "22/cosmical.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.14
+    "coef": 1.16
   },
   {
     "title": "COSMIC RAY",
@@ -885,7 +885,7 @@
     "textage": "28/cosmcray.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.22
+    "coef": 1.18
   },
   {
     "title": "Cult Invitation",
@@ -897,7 +897,7 @@
     "textage": "31/cultinvi.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.19
+    "coef": 1.13
   },
   {
     "title": "Dahlia",
@@ -909,7 +909,7 @@
     "textage": "31/dahlia.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.24
+    "coef": 1.22
   },
   {
     "title": "Dances with Snow Fairies",
@@ -921,7 +921,7 @@
     "textage": "18/dancwith.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.35
+    "coef": 1.29
   },
   {
     "title": "Dances with Snow Fairies",
@@ -933,7 +933,7 @@
     "textage": "18/dancwith.html?1XC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.35
+    "coef": 1.29
   },
   {
     "title": "Dans la nuit de l'eternite",
@@ -945,7 +945,7 @@
     "textage": "27/dans_la.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.1
+    "coef": 1.13
   },
   {
     "title": "DARK LEGACY",
@@ -957,7 +957,7 @@
     "textage": "21/darklgcy.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.1
+    "coef": 1.13
   },
   {
     "title": "dAuntl3ss",
@@ -969,7 +969,7 @@
     "textage": "26/dauntl3s.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.11
+    "coef": 1.14
   },
   {
     "title": "DAY DREAM",
@@ -981,7 +981,7 @@
     "textage": "20/daydream.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 0.96
+    "coef": 1.08
   },
   {
     "title": "DEADHEAT",
@@ -993,7 +993,7 @@
     "textage": "25/deadheat.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.04
+    "coef": 1.1
   },
   {
     "title": "DEATH†ZIGOQ ～怒りの高速爆走野郎～",
@@ -1029,7 +1029,7 @@
     "textage": "31/demonmch.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.27
+    "coef": 1.23
   },
   {
     "title": "Despair of ELFERIA",
@@ -1041,7 +1041,7 @@
     "textage": "22/delferia.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.15
+    "coef": 1.14
   },
   {
     "title": "Devil's Gear",
@@ -1053,7 +1053,7 @@
     "textage": "23/dvlsgear.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.17
+    "coef": 1.16
   },
   {
     "title": "Devilz Staircase",
@@ -1065,7 +1065,7 @@
     "textage": "20/devilz_s.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.15
+    "coef": 1.2
   },
   {
     "title": "DIAMOND CROSSING",
@@ -1077,7 +1077,7 @@
     "textage": "23/diacross.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.11
+    "coef": 1.12
   },
   {
     "title": "DIAVOLO",
@@ -1101,7 +1101,7 @@
     "textage": "30/dicadica.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.04
+    "coef": 1.08
   },
   {
     "title": "DOMINION",
@@ -1113,7 +1113,7 @@
     "textage": "17/dominion.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.05
+    "coef": 1.12
   },
   {
     "title": "Don't believe the hype",
@@ -1125,7 +1125,7 @@
     "textage": "29/donthype.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.33
+    "coef": 1.24
   },
   {
     "title": "DORNWALD ～Junge～",
@@ -1137,7 +1137,7 @@
     "textage": "24/dornwald.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.19
+    "coef": 1.16
   },
   {
     "title": "Double Dribble",
@@ -1149,7 +1149,7 @@
     "textage": "27/ddribble.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 0.97
+    "coef": 1.05
   },
   {
     "title": "Dr. Chemical & Killing Machine",
@@ -1173,7 +1173,7 @@
     "textage": "26/drasticd.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.07
+    "coef": 1.11
   },
   {
     "title": "DropZ-Line-",
@@ -1185,7 +1185,7 @@
     "textage": "25/dropz_ln.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.08
+    "coef": 1.13
   },
   {
     "title": "DRUNK MONKY",
@@ -1197,7 +1197,7 @@
     "textage": "26/drkmonky.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 0.85
+    "coef": 0.99
   },
   {
     "title": "DUAL STRIKER",
@@ -1209,7 +1209,7 @@
     "textage": "28/dualstr.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.12
+    "coef": 1.14
   },
   {
     "title": "DUE TOMORROW",
@@ -1221,7 +1221,7 @@
     "textage": "13/due_tmrw.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 0.9
+    "coef": 0.99
   },
   {
     "title": "Dynamite",
@@ -1233,7 +1233,7 @@
     "textage": "23/dynausao.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.24
+    "coef": 1.19
   },
   {
     "title": "EBONY & IVORY",
@@ -1269,7 +1269,7 @@
     "textage": "24/echidna.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.04
+    "coef": 1.05
   },
   {
     "title": "Elektrick U-Phoria",
@@ -1281,7 +1281,7 @@
     "textage": "21/euphoria.html?1XC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.22
+    "coef": 1.19
   },
   {
     "title": "Elemental Creation",
@@ -1293,7 +1293,7 @@
     "textage": "20/elecreat.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.3
+    "coef": 1.2
   },
   {
     "title": "EMERALDAS",
@@ -1305,7 +1305,7 @@
     "textage": "25/emeralds.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.15
+    "coef": 1.11
   },
   {
     "title": "Empire of Fury",
@@ -1317,7 +1317,7 @@
     "textage": "28/emprfury.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.29
+    "coef": 1.26
   },
   {
     "title": "encounter",
@@ -1329,7 +1329,7 @@
     "textage": "25/encountr.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.03
+    "coef": 1.09
   },
   {
     "title": "entelecheia",
@@ -1341,7 +1341,7 @@
     "textage": "22/entelech.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.11
+    "coef": 1.12
   },
   {
     "title": "eRAseRmOToRpHAntOM",
@@ -1353,7 +1353,7 @@
     "textage": "17/ephantom.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 0.97
+    "coef": 1.09
   },
   {
     "title": "EROICA",
@@ -1365,7 +1365,7 @@
     "textage": "27/eroica.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.2
+    "coef": 1.15
   },
   {
     "title": "EVANESCENT",
@@ -1377,7 +1377,7 @@
     "textage": "26/evanscnt.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.02
+    "coef": 1.07
   },
   {
     "title": "Evans",
@@ -1389,7 +1389,7 @@
     "textage": "17/evans.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.14
+    "coef": 1.15
   },
   {
     "title": "Everlasting Message",
@@ -1401,7 +1401,7 @@
     "textage": "27/evermesg.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.32
+    "coef": 1.2
   },
   {
     "title": "EXUSIA",
@@ -1413,7 +1413,7 @@
     "textage": "17/exusia.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.07
+    "coef": 1.11
   },
   {
     "title": "F",
@@ -1425,7 +1425,7 @@
     "textage": "19/f_amuro.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.07
+    "coef": 1.11
   },
   {
     "title": "FAKE TIME",
@@ -1437,7 +1437,7 @@
     "textage": "11/faketime.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.08
+    "coef": 1.12
   },
   {
     "title": "fallen leaves -IIDX edition-",
@@ -1449,7 +1449,7 @@
     "textage": "22/faleaves.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.22
+    "coef": 1.18
   },
   {
     "title": "FANTASTIC THREE",
@@ -1461,7 +1461,7 @@
     "textage": "22/fanthree.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.16
+    "coef": 1.21
   },
   {
     "title": "Fascination MAXX",
@@ -1473,7 +1473,7 @@
     "textage": "14/fas_maxx.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.04
+    "coef": 1.11
   },
   {
     "title": "Feel The Beat",
@@ -1485,7 +1485,7 @@
     "textage": "21/feelbeat.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.86
+    "coef": 1.37
   },
   {
     "title": "Feel The Beat",
@@ -1497,7 +1497,7 @@
     "textage": "21/feelbetl.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.86
+    "coef": 1.37
   },
   {
     "title": "Fegrix",
@@ -1509,7 +1509,7 @@
     "textage": "29/fegrix.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.08
+    "coef": 1.12
   },
   {
     "title": "Fire Beat",
@@ -1521,7 +1521,7 @@
     "textage": "28/firebeat.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.09
+    "coef": 1.16
   },
   {
     "title": "FIRE FIRE",
@@ -1533,7 +1533,7 @@
     "textage": "14/firefire.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 0.95
+    "coef": 1.03
   },
   {
     "title": "Flashes",
@@ -1545,7 +1545,7 @@
     "textage": "22/flashes.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.36
+    "coef": 1.27
   },
   {
     "title": "Flying Castle",
@@ -1557,7 +1557,7 @@
     "textage": "29/flcastle.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.06
+    "coef": 1.09
   },
   {
     "title": "four pieces of heaven",
@@ -1569,7 +1569,7 @@
     "textage": "15/fourpces.html?1XC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.31
+    "coef": 1.24
   },
   {
     "title": "frequent",
@@ -1581,7 +1581,7 @@
     "textage": "31/frequent.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.15
+    "coef": 1.16
   },
   {
     "title": "Friction[!]Function",
@@ -1593,7 +1593,7 @@
     "textage": "27/friction.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.03
+    "coef": 1.08
   },
   {
     "title": "FUZIN RIZIN",
@@ -1605,7 +1605,7 @@
     "textage": "24/fuznrizn.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.07
+    "coef": 1.12
   },
   {
     "title": "G59",
@@ -1617,7 +1617,7 @@
     "textage": "17/g59.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.32
+    "coef": 1.24
   },
   {
     "title": "GAIA",
@@ -1629,7 +1629,7 @@
     "textage": "20/gaia.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.16
+    "coef": 1.15
   },
   {
     "title": "GAME ON",
@@ -1641,7 +1641,7 @@
     "textage": "31/game_on.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 0.97
+    "coef": 1.06
   },
   {
     "title": "Ganymede",
@@ -1653,7 +1653,7 @@
     "textage": "13/ganymede.html?1XC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.13
+    "coef": 1.12
   },
   {
     "title": "GENE",
@@ -1665,7 +1665,7 @@
     "textage": "26/gene.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.14
+    "coef": 1.13
   },
   {
     "title": "Ghost Pulse",
@@ -1677,7 +1677,7 @@
     "textage": "31/ghostpls.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.09
+    "coef": 1.13
   },
   {
     "title": "gigadelic",
@@ -1689,7 +1689,7 @@
     "textage": "11/gigadel.html?1HC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.07
+    "coef": 1.12
   },
   {
     "title": "gigadelic",
@@ -1701,7 +1701,7 @@
     "textage": "11/gigadel.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.07
+    "coef": 1.12
   },
   {
     "title": "GiGaGaHell",
@@ -1713,7 +1713,7 @@
     "textage": "29/gigagahl.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.06
+    "coef": 1.11
   },
   {
     "title": "glacia",
@@ -1725,7 +1725,7 @@
     "textage": "30/glacia.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.1
+    "coef": 1.11
   },
   {
     "title": "Glitch N Ride",
@@ -1749,7 +1749,7 @@
     "textage": "24/goahead.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.12
+    "coef": 1.11
   },
   {
     "title": "Go Beyond!!",
@@ -1761,7 +1761,7 @@
     "textage": "16/gobeyond.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.4
+    "coef": 1.27
   },
   {
     "title": "GO OVER WITH GLARE -ROOTAGE 26-",
@@ -1773,7 +1773,7 @@
     "textage": "26/go_glare.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.08
+    "coef": 1.09
   },
   {
     "title": "Godspeed",
@@ -1785,7 +1785,7 @@
     "textage": "23/godspeed.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.07
+    "coef": 1.12
   },
   {
     "title": "GOLDEN CROSS",
@@ -1797,7 +1797,7 @@
     "textage": "17/goldcros.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.06
+    "coef": 1.1
   },
   {
     "title": "Grand Chariot",
@@ -1809,7 +1809,7 @@
     "textage": "23/gchariot.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.2
+    "coef": 1.19
   },
   {
     "title": "Gravigazer",
@@ -1821,7 +1821,7 @@
     "textage": "22/gravigzr.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.1
+    "coef": 1.13
   },
   {
     "title": "GRAVITON",
@@ -1833,7 +1833,7 @@
     "textage": "29/graviton.html?1AC60",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.17
+    "coef": 1.16
   },
   {
     "title": "GRID KNIGHT",
@@ -1845,7 +1845,7 @@
     "textage": "14/gknightl.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 0.97
+    "coef": 1.08
   },
   {
     "title": "GUILTY",
@@ -1857,7 +1857,7 @@
     "textage": "22/guilty.html?1XC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.26
+    "coef": 1.2
   },
   {
     "title": "GuNGNiR",
@@ -1869,7 +1869,7 @@
     "textage": "24/gungnir.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.19
+    "coef": 1.18
   },
   {
     "title": "GuNGNiR",
@@ -1881,7 +1881,7 @@
     "textage": "24/gungnir.html?1XC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.19
+    "coef": 1.18
   },
   {
     "title": "HADES",
@@ -1893,7 +1893,7 @@
     "textage": "24/hadesmnk.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.08
+    "coef": 1.09
   },
   {
     "title": "HAERETICUS",
@@ -1905,7 +1905,7 @@
     "textage": "19/haeretic.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.1
+    "coef": 1.12
   },
   {
     "title": "HARD BRAIN",
@@ -1917,7 +1917,7 @@
     "textage": "26/hrdbrain.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.22
+    "coef": 1.18
   },
   {
     "title": "hard-wired",
@@ -1929,7 +1929,7 @@
     "textage": "29/hd_wired.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.39
+    "coef": 1.24
   },
   {
     "title": "Hat Surprise (Season 2)",
@@ -1941,7 +1941,7 @@
     "textage": "30/hatsurp2.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.08
+    "coef": 1.12
   },
   {
     "title": "Highcharge Divolt",
@@ -1953,7 +1953,7 @@
     "textage": "23/hicharge.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.02
+    "coef": 1.07
   },
   {
     "title": "Hollywood Galaxy",
@@ -1965,7 +1965,7 @@
     "textage": "20/holywood.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.16
+    "coef": 1.17
   },
   {
     "title": "I",
@@ -1977,7 +1977,7 @@
     "textage": "30/i_chroma.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.13
+    "coef": 1.14
   },
   {
     "title": "ICARUS",
@@ -1989,7 +1989,7 @@
     "textage": "15/icarus.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.01
+    "coef": 1.03
   },
   {
     "title": "ICARUS",
@@ -2001,7 +2001,7 @@
     "textage": "15/icarus.html?1XC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.01
+    "coef": 1.03
   },
   {
     "title": "Idola",
@@ -2013,7 +2013,7 @@
     "textage": "21/idola.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.04
+    "coef": 1.09
   },
   {
     "title": "Ignis†Irae",
@@ -2025,7 +2025,7 @@
     "textage": "28/ignisira.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.06
+    "coef": 1.11
   },
   {
     "title": "Illegal Function Call",
@@ -2037,7 +2037,7 @@
     "textage": "20/illegal.html?1XC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.53
+    "coef": 1.33
   },
   {
     "title": "Illusionary Waterlily",
@@ -2049,7 +2049,7 @@
     "textage": "25/illuswtr.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.23
+    "coef": 1.22
   },
   {
     "title": "IMPLANTATION",
@@ -2061,7 +2061,7 @@
     "textage": "22/implant.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 0.89
+    "coef": 1
   },
   {
     "title": "Inferno of Fomalhaut",
@@ -2073,7 +2073,7 @@
     "textage": "27/inffomal.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.02
+    "coef": 1.13
   },
   {
     "title": "Initiation",
@@ -2085,7 +2085,7 @@
     "textage": "25/initiatn.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.29
+    "coef": 1.21
   },
   {
     "title": "innocent revolver",
@@ -2097,7 +2097,7 @@
     "textage": "28/inorevol.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.09
+    "coef": 1.15
   },
   {
     "title": "Innocent Walls",
@@ -2109,7 +2109,7 @@
     "textage": "10/innocent.html?1HC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 0.97
+    "coef": 1.07
   },
   {
     "title": "Innocent Walls",
@@ -2121,7 +2121,7 @@
     "textage": "10/innocent.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 0.97
+    "coef": 1.07
   },
   {
     "title": "INSOMNIA",
@@ -2133,7 +2133,7 @@
     "textage": "21/insomnia.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.01
+    "coef": 1.11
   },
   {
     "title": "Invitation from Mr.C",
@@ -2145,7 +2145,7 @@
     "textage": "22/invi_mrc.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 0.9
+    "coef": 1.08
   },
   {
     "title": "invoker",
@@ -2157,7 +2157,7 @@
     "textage": "21/invoker.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.23
+    "coef": 1.18
   },
   {
     "title": "invoker",
@@ -2169,7 +2169,7 @@
     "textage": "21/invokerl.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.23
+    "coef": 1.18
   },
   {
     "title": "JOMANDA",
@@ -2181,7 +2181,7 @@
     "textage": "20/jomanda.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.14
+    "coef": 1.18
   },
   {
     "title": "JUSTICE/GUILTY feat. Nana Takahashi & 709sec.",
@@ -2205,7 +2205,7 @@
     "textage": "21/kaiserph.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.29
+    "coef": 1.2
   },
   {
     "title": "KAISER PHOENIX",
@@ -2217,7 +2217,7 @@
     "textage": "21/kaiserpl.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.29
+    "coef": 1.2
   },
   {
     "title": "KAMAITACHI",
@@ -2229,7 +2229,7 @@
     "textage": "14/kmitachl.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.16
+    "coef": 1.14
   },
   {
     "title": "KILL EACH OTHER",
@@ -2241,7 +2241,7 @@
     "textage": "26/killeach.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.11
+    "coef": 1.12
   },
   {
     "title": "KING",
@@ -2253,7 +2253,7 @@
     "textage": "30/king.html?1XC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.15
+    "coef": 1.14
   },
   {
     "title": "Konzert V",
@@ -2265,7 +2265,7 @@
     "textage": "23/konzertv.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.13
+    "coef": 1.15
   },
   {
     "title": "kors k's How to make OTOGE CORE 「LONG」",
@@ -2277,7 +2277,7 @@
     "textage": "30/korsklng.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.07
+    "coef": 1.12
   },
   {
     "title": "Kung-fu Empire",
@@ -2289,7 +2289,7 @@
     "textage": "16/kungfu_l.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1
+    "coef": 1.09
   },
   {
     "title": "L.F.O",
@@ -2301,7 +2301,7 @@
     "textage": "26/lfo.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.01
+    "coef": 1.08
   },
   {
     "title": "LASER CRUSTER",
@@ -2313,7 +2313,7 @@
     "textage": "14/lcruster.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.09
+    "coef": 1.14
   },
   {
     "title": "LASER CRUSTER (IGNITE REMIX)",
@@ -2325,7 +2325,7 @@
     "textage": "27/lcrust_h.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.23
+    "coef": 1.2
   },
   {
     "title": "Last Dance",
@@ -2337,7 +2337,7 @@
     "textage": "21/lstdance.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.11
+    "coef": 1.16
   },
   {
     "title": "Lethal Weapon",
@@ -2349,7 +2349,7 @@
     "textage": "26/lethalwp.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.23
+    "coef": 1.19
   },
   {
     "title": "Level One",
@@ -2361,7 +2361,7 @@
     "textage": "26/levelone.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.33
+    "coef": 1.23
   },
   {
     "title": "Level 2",
@@ -2385,7 +2385,7 @@
     "textage": "28/level3.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.01
+    "coef": 1.04
   },
   {
     "title": "Level 4",
@@ -2397,7 +2397,7 @@
     "textage": "30/level4.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.29
+    "coef": 1.2
   },
   {
     "title": "Level 5",
@@ -2409,7 +2409,7 @@
     "textage": "31/level5.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.06
+    "coef": 1.04
   },
   {
     "title": "Liberation",
@@ -2421,7 +2421,7 @@
     "textage": "20/liberatn.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.06
+    "coef": 1.17
   },
   {
     "title": "Life Is A Game ft.DD\"ナカタ\"Metal",
@@ -2433,7 +2433,7 @@
     "textage": "25/lifegame.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.19
+    "coef": 1.18
   },
   {
     "title": "LIGHTNING STRIKES",
@@ -2445,7 +2445,7 @@
     "textage": "27/lightstr.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.33
+    "coef": 1.19
   },
   {
     "title": "Little Little Princess",
@@ -2469,7 +2469,7 @@
     "textage": "20/ltl_star.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.11
+    "coef": 1.12
   },
   {
     "title": "LIVE DRIVING!! feat. 花たん",
@@ -2481,7 +2481,7 @@
     "textage": "29/livedriv.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.02
+    "coef": 1.09
   },
   {
     "title": "LOCUS OF THE TRAVEL",
@@ -2493,7 +2493,7 @@
     "textage": "28/locustrv.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.13
+    "coef": 1.14
   },
   {
     "title": "Lords Of The Roundtable",
@@ -2505,7 +2505,7 @@
     "textage": "27/lords_rt.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.21
+    "coef": 1.15
   },
   {
     "title": "Lost Souls",
@@ -2517,7 +2517,7 @@
     "textage": "27/lostsoul.html?1XC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.2
+    "coef": 1.16
   },
   {
     "title": "LOST TECHNOLOGIE",
@@ -2529,7 +2529,7 @@
     "textage": "26/losttech.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.04
+    "coef": 1.1
   },
   {
     "title": "LOUDER ROLLING THUNDER",
@@ -2541,7 +2541,7 @@
     "textage": "30/louderrt.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.25
+    "coef": 1.22
   },
   {
     "title": "Macho Monky",
@@ -2553,7 +2553,7 @@
     "textage": "26/machomnk.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.29
+    "coef": 1.21
   },
   {
     "title": "Mare Nectaris",
@@ -2577,7 +2577,7 @@
     "textage": "16/marieant.html?1XC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.05
+    "coef": 1.12
   },
   {
     "title": "Matt Silver",
@@ -2589,7 +2589,7 @@
     "textage": "27/mattsilv.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.04
+    "coef": 1.09
   },
   {
     "title": "MAX 300",
@@ -2601,7 +2601,7 @@
     "textage": "7/max_300.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 0.96
+    "coef": 1.04
   },
   {
     "title": "MAX 360",
@@ -2613,7 +2613,7 @@
     "textage": "30/max_360.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.09
+    "coef": 1.13
   },
   {
     "title": "MAXIMUM CHEAT GIRL",
@@ -2625,7 +2625,7 @@
     "textage": "31/maxcheat.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.08
+    "coef": 1.11
   },
   {
     "title": "MEGAERA",
@@ -2649,7 +2649,7 @@
     "textage": "27/megalara.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.1
+    "coef": 1.13
   },
   {
     "title": "Meissa",
@@ -2661,7 +2661,7 @@
     "textage": "30/meissa.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 0.9
+    "coef": 1.03
   },
   {
     "title": "MENDES",
@@ -2673,7 +2673,7 @@
     "textage": "15/mendes.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.34
+    "coef": 1.22
   },
   {
     "title": "Million Dollar",
@@ -2685,7 +2685,7 @@
     "textage": "31/mldollar.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.17
+    "coef": 1.18
   },
   {
     "title": "Miracle 5ympho X",
@@ -2697,7 +2697,7 @@
     "textage": "21/miracle5.html?1XC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.37
+    "coef": 1.25
   },
   {
     "title": "Monopole.",
@@ -2709,7 +2709,7 @@
     "textage": "22/monopole.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.08
+    "coef": 1.15
   },
   {
     "title": "moon_child",
@@ -2721,7 +2721,7 @@
     "textage": "9/m_child.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.1
+    "coef": 1.13
   },
   {
     "title": "mosaic",
@@ -2733,7 +2733,7 @@
     "textage": "17/mosaic.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.1
+    "coef": 1.12
   },
   {
     "title": "M4K3 1T B0UNC3",
@@ -2745,7 +2745,7 @@
     "textage": "23/m4k3_1t.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.21
+    "coef": 1.18
   },
   {
     "title": "NEO GENERATOR SEVEN",
@@ -2757,7 +2757,7 @@
     "textage": "22/neogene7.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.24
+    "coef": 1.23
   },
   {
     "title": "neu",
@@ -2769,7 +2769,7 @@
     "textage": "20/neu.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.11
+    "coef": 1.13
   },
   {
     "title": "New Castle Legions",
@@ -2781,7 +2781,7 @@
     "textage": "18/nwcasl26.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.04
+    "coef": 1.09
   },
   {
     "title": "NEW GENERATION -もう、お前しか見えない-",
@@ -2793,7 +2793,7 @@
     "textage": "15/new_gene.html?1XC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.13
+    "coef": 1.14
   },
   {
     "title": "Nightmare before oversleep",
@@ -2805,7 +2805,7 @@
     "textage": "23/nightbfr.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.01
+    "coef": 1.05
   },
   {
     "title": "NINJA IS DEAD IIDX ver.",
@@ -2817,7 +2817,7 @@
     "textage": "23/ninja_dd.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 0.98
+    "coef": 1.08
   },
   {
     "title": "NITROUS CANNON",
@@ -2829,7 +2829,7 @@
     "textage": "25/nitrous.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.3
+    "coef": 1.14
   },
   {
     "title": "NNRT",
@@ -2841,7 +2841,7 @@
     "textage": "19/nnrt.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.05
+    "coef": 1.11
   },
   {
     "title": "No Border",
@@ -2853,7 +2853,7 @@
     "textage": "30/noborder.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.22
+    "coef": 1.18
   },
   {
     "title": "NZM",
@@ -2877,7 +2877,7 @@
     "textage": "29/n_a.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.05
+    "coef": 1.07
   },
   {
     "title": "O/D*20",
@@ -2889,7 +2889,7 @@
     "textage": "25/o_d_20.html?1XC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.18
+    "coef": 1.16
   },
   {
     "title": "ONE AND ONLY",
@@ -2901,7 +2901,7 @@
     "textage": "30/one_only.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.02
+    "coef": 1.05
   },
   {
     "title": "One for All",
@@ -2913,7 +2913,7 @@
     "textage": "29/oneforal.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.01
+    "coef": 1.12
   },
   {
     "title": "One More Lovely",
@@ -2925,7 +2925,7 @@
     "textage": "10/onemore.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.01
+    "coef": 1.09
   },
   {
     "title": "one or eight",
@@ -2937,7 +2937,7 @@
     "textage": "9/oneeight.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.03
+    "coef": 1.15
   },
   {
     "title": "ONIGOROSHI",
@@ -2949,7 +2949,7 @@
     "textage": "26/onigoros.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 0.94
+    "coef": 1.04
   },
   {
     "title": "oratio",
@@ -2961,7 +2961,7 @@
     "textage": "15/oratio.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.18
+    "coef": 1.17
   },
   {
     "title": "ORCA",
@@ -2972,7 +2972,7 @@
     "textage": "27/orca.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.05,
+    "coef": 1.08,
     "avg": 2966
   },
   {
@@ -2985,7 +2985,7 @@
     "textage": "24/otenamih.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.01
+    "coef": 1.13
   },
   {
     "title": "Ou Legends",
@@ -2997,7 +2997,7 @@
     "textage": "30/_oulgnds.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.07
+    "coef": 1.1
   },
   {
     "title": "Out of Control",
@@ -3009,7 +3009,7 @@
     "textage": "31/outcntrl.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.09
+    "coef": 1.14
   },
   {
     "title": "Override",
@@ -3021,7 +3021,7 @@
     "textage": "27/override.html?1XC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.29
+    "coef": 1.19
   },
   {
     "title": "Painful Fate",
@@ -3033,7 +3033,7 @@
     "textage": "26/painfate.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.06
+    "coef": 1.09
   },
   {
     "title": "Papilio ulysses",
@@ -3045,7 +3045,7 @@
     "textage": "25/papilio.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.04
+    "coef": 1.08
   },
   {
     "title": "PARADISE LOST",
@@ -3057,7 +3057,7 @@
     "textage": "18/paralost.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.07
+    "coef": 1.12
   },
   {
     "title": "PARANOiA ～HADES～",
@@ -3069,7 +3069,7 @@
     "textage": "15/pr_hades.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.3
+    "coef": 1.24
   },
   {
     "title": "Parvati",
@@ -3081,7 +3081,7 @@
     "textage": "28/parvati.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 0.96
+    "coef": 1.04
   },
   {
     "title": "Peaktime Booster",
@@ -3093,7 +3093,7 @@
     "textage": "30/peaktime.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.12
+    "coef": 1.16
   },
   {
     "title": "perditus†paradisus",
@@ -3105,7 +3105,7 @@
     "textage": "18/perditus.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.29
+    "coef": 1.2
   },
   {
     "title": "Persephone",
@@ -3117,7 +3117,7 @@
     "textage": "25/prsphone.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.05
+    "coef": 1.12
   },
   {
     "title": "Phoenix",
@@ -3129,7 +3129,7 @@
     "textage": "19/phoenix.html?1XC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.33
+    "coef": 1.22
   },
   {
     "title": "Plan 8",
@@ -3141,7 +3141,7 @@
     "textage": "20/plan8.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 0.96
+    "coef": 1.01
   },
   {
     "title": "PLASMA SOUL NIGHT feat. Nana Takahashi / 709sec.",
@@ -3165,7 +3165,7 @@
     "textage": "8/please.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.04
+    "coef": 1.15
   },
   {
     "title": "Please Welcome Mr.C",
@@ -3177,7 +3177,7 @@
     "textage": "26/pls_mr_c.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.02
+    "coef": 1.12
   },
   {
     "title": "POSSESSION",
@@ -3189,7 +3189,7 @@
     "textage": "23/posesion.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.05
+    "coef": 1.1
   },
   {
     "title": "Primitive Vibes",
@@ -3201,7 +3201,7 @@
     "textage": "27/prmvibes.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 0.99
+    "coef": 1.06
   },
   {
     "title": "Proof of the existence",
@@ -3213,7 +3213,7 @@
     "textage": "20/proof_of.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.38
+    "coef": 1.25
   },
   {
     "title": "PUNISHER",
@@ -3225,7 +3225,7 @@
     "textage": "21/punisher.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.22
+    "coef": 1.18
   },
   {
     "title": "Purple Perplex",
@@ -3237,7 +3237,7 @@
     "textage": "29/pperplex.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.27
+    "coef": 1.22
   },
   {
     "title": "Push on Beats!～音ゲの国のeX-ストリーマー～",
@@ -3249,7 +3249,7 @@
     "textage": "29/pushonbt.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.09
+    "coef": 1.21
   },
   {
     "title": "Quakes",
@@ -3273,7 +3273,7 @@
     "textage": "19/quantuml.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.1
+    "coef": 1.14
   },
   {
     "title": "quaver♪",
@@ -3285,7 +3285,7 @@
     "textage": "19/quaver.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.18
+    "coef": 1.16
   },
   {
     "title": "quell～the seventh slave～",
@@ -3297,7 +3297,7 @@
     "textage": "17/quell.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.3
+    "coef": 1.21
   },
   {
     "title": "ra'am",
@@ -3309,7 +3309,7 @@
     "textage": "21/raam.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.07
+    "coef": 1.17
   },
   {
     "title": "rage against usual",
@@ -3345,7 +3345,7 @@
     "textage": "24/rain.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.07
+    "coef": 1.11
   },
   {
     "title": "Rampage",
@@ -3357,7 +3357,7 @@
     "textage": "25/rampage.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.07
+    "coef": 1.09
   },
   {
     "title": "Raspberry Railgun",
@@ -3369,7 +3369,7 @@
     "textage": "25/rrailgun.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.03
+    "coef": 1.07
   },
   {
     "title": "Rave Cannon",
@@ -3381,7 +3381,7 @@
     "textage": "24/rvcannon.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.05
+    "coef": 1.11
   },
   {
     "title": "Rave Patroller",
@@ -3393,7 +3393,7 @@
     "textage": "27/ravepatr.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.08
+    "coef": 1.12
   },
   {
     "title": "Rave*it!! Rave*it!! ",
@@ -3417,7 +3417,7 @@
     "textage": "11/redzonel.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 0.97
+    "coef": 1.07
   },
   {
     "title": "Red. by Full Metal Jacket",
@@ -3429,7 +3429,7 @@
     "textage": "17/red_fmj.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.19
+    "coef": 1.14
   },
   {
     "title": "Red. by Jack Trance",
@@ -3441,7 +3441,7 @@
     "textage": "26/red_jack.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.3
+    "coef": 1.2
   },
   {
     "title": "Reflux",
@@ -3465,7 +3465,7 @@
     "textage": "23/refrain.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.27
+    "coef": 1.21
   },
   {
     "title": "Resonant",
@@ -3477,7 +3477,7 @@
     "textage": "31/resonant.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.22
+    "coef": 1.16
   },
   {
     "title": "reunion",
@@ -3501,7 +3501,7 @@
     "textage": "25/revolver.html?1XC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.14
+    "coef": 1.16
   },
   {
     "title": "RINNE",
@@ -3513,7 +3513,7 @@
     "textage": "30/rinne.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1
+    "coef": 1.08
   },
   {
     "title": "Ristaccia",
@@ -3525,7 +3525,7 @@
     "textage": "15/ristacia.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 0.98
+    "coef": 1.07
   },
   {
     "title": "rommmo",
@@ -3537,7 +3537,7 @@
     "textage": "28/rommmo.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.04
+    "coef": 1.15
   },
   {
     "title": "ruin of opals",
@@ -3549,7 +3549,7 @@
     "textage": "26/ruinopal.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.16
+    "coef": 1.14
   },
   {
     "title": "sakura storm",
@@ -3561,7 +3561,7 @@
     "textage": "18/sakurast.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 0.97
+    "coef": 1.04
   },
   {
     "title": "SAMURAI-Scramble",
@@ -3573,7 +3573,7 @@
     "textage": "24/samurais.html?1XC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.24
+    "coef": 1.21
   },
   {
     "title": "Saturn",
@@ -3597,7 +3597,7 @@
     "textage": "24/saybay.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.13
+    "coef": 1.14
   },
   {
     "title": "Say YEEEAHH",
@@ -3609,7 +3609,7 @@
     "textage": "22/say_yeah.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1
+    "coef": 1.08
   },
   {
     "title": "SCREAM SQUAD",
@@ -3621,7 +3621,7 @@
     "textage": "12/sc_squad.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 0.95
+    "coef": 1.06
   },
   {
     "title": "SCREW // owo // SCREW",
@@ -3633,7 +3633,7 @@
     "textage": "27/screwowo.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.01
+    "coef": 1.05
   },
   {
     "title": "Scripted Connection⇒ A mix",
@@ -3645,7 +3645,7 @@
     "textage": "12/script_a.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.01
+    "coef": 1.07
   },
   {
     "title": "Scripted Connection⇒ A mix",
@@ -3657,7 +3657,7 @@
     "textage": "12/script_a.html?1XC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.01
+    "coef": 1.07
   },
   {
     "title": "Secrets",
@@ -3669,7 +3669,7 @@
     "textage": "16/secrets.html?1XC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.12
+    "coef": 1.13
   },
   {
     "title": "Sense 2007",
@@ -3681,7 +3681,7 @@
     "textage": "14/sens2007.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.01
+    "coef": 1.06
   },
   {
     "title": "Session 9 -Chronicles-",
@@ -3693,7 +3693,7 @@
     "textage": "18/session9.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.01
+    "coef": 1.16
   },
   {
     "title": "Seven Times Four",
@@ -3717,7 +3717,7 @@
     "textage": "22/shootfir.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.17
+    "coef": 1.15
   },
   {
     "title": "Sigmund",
@@ -3729,7 +3729,7 @@
     "textage": "21/sigmund.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.01
+    "coef": 1.08
   },
   {
     "title": "Sigmund",
@@ -3741,7 +3741,7 @@
     "textage": "21/sigmundl.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.01
+    "coef": 1.08
   },
   {
     "title": "Silver Bullet",
@@ -3753,7 +3753,7 @@
     "textage": "29/slbullet.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.27
+    "coef": 1.18
   },
   {
     "title": "Sinus Iridum",
@@ -3765,7 +3765,7 @@
     "textage": "28/sinusiri.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 0.93
+    "coef": 1.01
   },
   {
     "title": "Sirius",
@@ -3777,7 +3777,7 @@
     "textage": "31/sirius.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.1
+    "coef": 1.14
   },
   {
     "title": "Skreaming for Salvation",
@@ -3803,7 +3803,7 @@
     "textage": "24/skyhigh.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.23
+    "coef": 1.19
   },
   {
     "title": "Slipstream",
@@ -3815,7 +3815,7 @@
     "textage": "25/slipstrm.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.2
+    "coef": 1.19
   },
   {
     "title": "Smalt #28598F",
@@ -3827,7 +3827,7 @@
     "textage": "29/smalt.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 0.91
+    "coef": 0.99
   },
   {
     "title": "Smashing Wedge",
@@ -3839,7 +3839,7 @@
     "textage": "27/smawedge.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.26
+    "coef": 1.19
   },
   {
     "title": "Snake Stick",
@@ -3851,7 +3851,7 @@
     "textage": "19/snakestk.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.11
+    "coef": 1.09
   },
   {
     "title": "Snakey Kung-fu",
@@ -3875,7 +3875,7 @@
     "textage": "14/snwstorm.html?1XC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 0.99
+    "coef": 1.06
   },
   {
     "title": "Sol Cosine Job 2",
@@ -3887,7 +3887,7 @@
     "textage": "20/soljob2.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.23
+    "coef": 1.18
   },
   {
     "title": "SOLAR ECLIPSE",
@@ -3899,7 +3899,7 @@
     "textage": "31/solarecl.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.3
+    "coef": 1.25
   },
   {
     "title": "SOLID STATE SQUAD",
@@ -3911,7 +3911,7 @@
     "textage": "17/sssquad.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.13
+    "coef": 1.14
   },
   {
     "title": "SOLID STATE SQUAD",
@@ -3923,7 +3923,7 @@
     "textage": "17/sssquadl.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.13
+    "coef": 1.14
   },
   {
     "title": "SOLID STATE SQUAD -RISEN RELIC REMIX-",
@@ -3935,7 +3935,7 @@
     "textage": "28/sss_rrr.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.09
+    "coef": 1.12
   },
   {
     "title": "SOLID WYVERN",
@@ -3947,7 +3947,7 @@
     "textage": "29/slwyvern.html?1XC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.25
+    "coef": 1.19
   },
   {
     "title": "Somnidiscotheque",
@@ -3959,7 +3959,7 @@
     "textage": "30/somnidis.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.31
+    "coef": 1.14
   },
   {
     "title": "Sounds Of Summer",
@@ -3971,7 +3971,7 @@
     "textage": "22/sosummer.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 0.95
+    "coef": 1.07
   },
   {
     "title": "SpaceLand☆TOYBOX",
@@ -3983,7 +3983,7 @@
     "textage": "22/sptoybox.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.12
+    "coef": 1.14
   },
   {
     "title": "SPECIAL SUMMER CAMPAIGN!",
@@ -3995,7 +3995,7 @@
     "textage": "18/ssc.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.03
+    "coef": 1.1
   },
   {
     "title": "spiral galaxy",
@@ -4007,7 +4007,7 @@
     "textage": "11/spiral_l.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 0.99
+    "coef": 1.12
   },
   {
     "title": "STARLIGHT DANCEHALL",
@@ -4019,7 +4019,7 @@
     "textage": "23/starltdl.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 0.97
+    "coef": 1.04
   },
   {
     "title": "Steel Edge",
@@ -4031,7 +4031,7 @@
     "textage": "24/steledge.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 0.9
+    "coef": 0.99
   },
   {
     "title": "STEEL NEEDLE",
@@ -4043,7 +4043,7 @@
     "textage": "15/stneedle.html?1XC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.43
+    "coef": 1.32
   },
   {
     "title": "Stereo Beasts",
@@ -4055,7 +4055,7 @@
     "textage": "31/stereobt.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 0.98
+    "coef": 1.02
   },
   {
     "title": "StrayedCatz",
@@ -4067,7 +4067,7 @@
     "textage": "23/strycatz.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.05
+    "coef": 1.09
   },
   {
     "title": "STULTI",
@@ -4079,7 +4079,7 @@
     "textage": "20/stulti.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.03
+    "coef": 1.12
   },
   {
     "title": "Summerlights(IIDX Edition)",
@@ -4091,7 +4091,7 @@
     "textage": "24/summerlt.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.02
+    "coef": 1.08
   },
   {
     "title": "Super Freak",
@@ -4103,7 +4103,7 @@
     "textage": "30/superfrk.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 0.99
+    "coef": 1.06
   },
   {
     "title": "Super Rush",
@@ -4115,7 +4115,7 @@
     "textage": "24/superush.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.11
+    "coef": 1.12
   },
   {
     "title": "suspicions",
@@ -4127,7 +4127,7 @@
     "textage": "30/suspcion.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.09
+    "coef": 1.1
   },
   {
     "title": "Sweet Clapper",
@@ -4139,7 +4139,7 @@
     "textage": "24/sclapper.html?1XC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.06
+    "coef": 1.09
   },
   {
     "title": "Sword of Vengeance",
@@ -4151,7 +4151,7 @@
     "textage": "31/swordven.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.06
+    "coef": 1.12
   },
   {
     "title": "Symmetry",
@@ -4163,7 +4163,7 @@
     "textage": "22/symmetry.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.04
+    "coef": 1.09
   },
   {
     "title": "SYNC-ANTHEM",
@@ -4175,7 +4175,7 @@
     "textage": "20/sync_ant.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.11
+    "coef": 1.12
   },
   {
     "title": "T-REX vs Velociraptor (In the Far east euphoria)",
@@ -4187,7 +4187,7 @@
     "textage": "27/t_rex_vs.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.29
+    "coef": 1.14
   },
   {
     "title": "TECHNOPHOBIA",
@@ -4199,7 +4199,7 @@
     "textage": "30/tcphobia.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.13
+    "coef": 1.12
   },
   {
     "title": "TECHNO Style Essentials",
@@ -4235,7 +4235,7 @@
     "textage": "27/thebrave.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.1
+    "coef": 1.15
   },
   {
     "title": "The Chase",
@@ -4247,7 +4247,7 @@
     "textage": "25/thechase.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.04
+    "coef": 1.05
   },
   {
     "title": "The Clown of 24stairs",
@@ -4259,7 +4259,7 @@
     "textage": "30/tclown24.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.16
+    "coef": 1.15
   },
   {
     "title": "THE DAY OF JUBILATIONS",
@@ -4271,7 +4271,7 @@
     "textage": "26/t_jubila.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.04
+    "coef": 1.12
   },
   {
     "title": "THE DEEP STRIKER",
@@ -4283,7 +4283,7 @@
     "textage": "15/tdeepstl.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 0.94
+    "coef": 1.1
   },
   {
     "title": "THE F∀UST",
@@ -4295,7 +4295,7 @@
     "textage": "27/thefaust.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.38
+    "coef": 1.24
   },
   {
     "title": "The Last Apocalypse",
@@ -4307,7 +4307,7 @@
     "textage": "31/tlastapo.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 0.97
+    "coef": 1.04
   },
   {
     "title": "The Least 100sec",
@@ -4319,7 +4319,7 @@
     "textage": "22/t_100sec.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.23
+    "coef": 1.19
   },
   {
     "title": "The Limbo",
@@ -4331,7 +4331,7 @@
     "textage": "19/thelimbo.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.15
+    "coef": 1.13
   },
   {
     "title": "The Limbo",
@@ -4343,7 +4343,7 @@
     "textage": "19/thelimbo.html?1XC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.15
+    "coef": 1.13
   },
   {
     "title": "The Onlyonez",
@@ -4355,7 +4355,7 @@
     "textage": "31/theonly1.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.1
+    "coef": 1.11
   },
   {
     "title": "THE PEERLESS UNDER HEAVEN",
@@ -4379,7 +4379,7 @@
     "textage": "26/t_rebeli.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.09
+    "coef": 1.15
   },
   {
     "title": "The Sampling Paradise",
@@ -4391,7 +4391,7 @@
     "textage": "19/t_sample.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.05
+    "coef": 1.07
   },
   {
     "title": "Thor's Hammer",
@@ -4403,7 +4403,7 @@
     "textage": "20/thors_hm.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.84
+    "coef": 1.4
   },
   {
     "title": "Thunderbolt",
@@ -4415,7 +4415,7 @@
     "textage": "19/thunbolt.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.06
+    "coef": 1.12
   },
   {
     "title": "thunder HOUSE NATION Remix",
@@ -4427,7 +4427,7 @@
     "textage": "16/thund28r.html?1XC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 0.99
+    "coef": 1.05
   },
   {
     "title": "TIEFSEE",
@@ -4439,7 +4439,7 @@
     "textage": "22/tiefsee.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.06
+    "coef": 1.11
   },
   {
     "title": "Tiempo Loco",
@@ -4451,7 +4451,7 @@
     "textage": "28/tiempolc.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.13
+    "coef": 1.12
   },
   {
     "title": "Timepiece phase II",
@@ -4463,7 +4463,7 @@
     "textage": "20/tpiece_2.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.11
+    "coef": 1.15
   },
   {
     "title": "Timepiece phase II (CN Ver.)",
@@ -4475,7 +4475,7 @@
     "textage": "20/tpiececn.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.21
+    "coef": 1.17
   },
   {
     "title": "Time to Air",
@@ -4487,7 +4487,7 @@
     "textage": "15/time2air.html?2XC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.15
+    "coef": 1.14
   },
   {
     "title": "TITANS RETURN",
@@ -4499,7 +4499,7 @@
     "textage": "19/titans.html?1XC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.53
+    "coef": 1.31
   },
   {
     "title": "Todestrieb",
@@ -4511,7 +4511,7 @@
     "textage": "19/todestri.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.09
+    "coef": 1.1
   },
   {
     "title": "TOGAKUSHI",
@@ -4523,7 +4523,7 @@
     "textage": "24/togakusi.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.15
+    "coef": 1.14
   },
   {
     "title": "TOMAHAWK",
@@ -4535,7 +4535,7 @@
     "textage": "29/tomahawk.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.21
+    "coef": 1.19
   },
   {
     "title": "TOXIC VIBRATION",
@@ -4547,7 +4547,7 @@
     "textage": "22/toxicvib.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.29
+    "coef": 1.22
   },
   {
     "title": "TRANOID",
@@ -4559,7 +4559,7 @@
     "textage": "14/tranoid.html?1XC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.23
+    "coef": 1.19
   },
   {
     "title": "Trill auf G",
@@ -4571,7 +4571,7 @@
     "textage": "26/trill_g.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.44
+    "coef": 1.3
   },
   {
     "title": "Triple Counter",
@@ -4583,7 +4583,7 @@
     "textage": "23/tripleco.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.11
+    "coef": 1.14
   },
   {
     "title": "Triple Cross",
@@ -4595,7 +4595,7 @@
     "textage": "29/tricross.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 0.95
+    "coef": 1.01
   },
   {
     "title": "TRIUMPH",
@@ -4607,7 +4607,7 @@
     "textage": "27/triumph.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 0.98
+    "coef": 1.04
   },
   {
     "title": "TROOPERS",
@@ -4619,7 +4619,7 @@
     "textage": "15/troopers.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 0.98
+    "coef": 1.07
   },
   {
     "title": "True Blue",
@@ -4631,7 +4631,7 @@
     "textage": "20/trueblue.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.08
+    "coef": 1.11
   },
   {
     "title": "Twelfth Style",
@@ -4643,7 +4643,7 @@
     "textage": "12/twelfth.html?1XC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.17
+    "coef": 1.16
   },
   {
     "title": "Umbral",
@@ -4655,7 +4655,7 @@
     "textage": "24/umbral.html?1XC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.04
+    "coef": 1.09
   },
   {
     "title": "Unbelief",
@@ -4667,7 +4667,7 @@
     "textage": "26/unbelief.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.3
+    "coef": 1.23
   },
   {
     "title": "Ubertreffen",
@@ -4679,7 +4679,7 @@
     "textage": "15/ubertrel.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.13
+    "coef": 1.16
   },
   {
     "title": "V",
@@ -4691,7 +4691,7 @@
     "textage": "5/v_taka.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 0.87
+    "coef": 0.91
   },
   {
     "title": "Valanga",
@@ -4715,7 +4715,7 @@
     "textage": "14/vanessa.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.26
+    "coef": 1.21
   },
   {
     "title": "VANESSA",
@@ -4727,7 +4727,7 @@
     "textage": "14/vanessal.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.26
+    "coef": 1.21
   },
   {
     "title": "Venom",
@@ -4739,7 +4739,7 @@
     "textage": "24/venom.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 0.93
+    "coef": 1.02
   },
   {
     "title": "Verflucht",
@@ -4751,7 +4751,7 @@
     "textage": "21/verflcht.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.38
+    "coef": 1.22
   },
   {
     "title": "Verflucht",
@@ -4763,7 +4763,7 @@
     "textage": "21/verflchl.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.38
+    "coef": 1.22
   },
   {
     "title": "Vermilion Carol",
@@ -4775,7 +4775,7 @@
     "textage": "31/vercarol.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.12
+    "coef": 1.14
   },
   {
     "title": "Vinculum stellarum",
@@ -4787,7 +4787,7 @@
     "textage": "27/vinculum.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.23
+    "coef": 1.2
   },
   {
     "title": "Violet Pulse",
@@ -4799,7 +4799,7 @@
     "textage": "23/viopulse.html?1XC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.36
+    "coef": 1.23
   },
   {
     "title": "Viridian",
@@ -4811,7 +4811,7 @@
     "textage": "28/viridian.html?2AC20",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.04
+    "coef": 1.12
   },
   {
     "title": "Visterhv",
@@ -4823,7 +4823,7 @@
     "textage": "26/visterhv.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.09
+    "coef": 1.11
   },
   {
     "title": "Vitrum",
@@ -4835,7 +4835,7 @@
     "textage": "28/vitrum.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.17
+    "coef": 1.18
   },
   {
     "title": "VOID",
@@ -4847,7 +4847,7 @@
     "textage": "30/vo_id.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.16
+    "coef": 1.15
   },
   {
     "title": "VOLAQUAS",
@@ -4871,7 +4871,7 @@
     "textage": "26/voltissi.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.28
+    "coef": 1.21
   },
   {
     "title": "VOX UP",
@@ -4883,7 +4883,7 @@
     "textage": "21/voxup_sp.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.22
+    "coef": 1.27
   },
   {
     "title": "Vulnerability",
@@ -4895,7 +4895,7 @@
     "textage": "31/vulnerab.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.23
+    "coef": 1.16
   },
   {
     "title": "Watch Out Pt.2",
@@ -4907,7 +4907,7 @@
     "textage": "18/watchpt2.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.05
+    "coef": 1.07
   },
   {
     "title": "waxing and wanding",
@@ -4919,7 +4919,7 @@
     "textage": "13/waxing_l.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.05
+    "coef": 1.09
   },
   {
     "title": "Welcome",
@@ -4931,7 +4931,7 @@
     "textage": "23/welcomel.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.11
+    "coef": 1.15
   },
   {
     "title": "We're so Happy (P*Light Remix) IIDX ver.",
@@ -4943,7 +4943,7 @@
     "textage": "22/wesoh_pl.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.12
+    "coef": 1.18
   },
   {
     "title": "WHA",
@@ -4955,7 +4955,7 @@
     "textage": "29/wha.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.14
+    "coef": 1.06
   },
   {
     "title": "WONDER WALKER",
@@ -4979,7 +4979,7 @@
     "textage": "23/x_amuro.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.13
+    "coef": 1.17
   },
   {
     "title": "X-DEN",
@@ -4991,7 +4991,7 @@
     "textage": "26/_kai_den.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.19
+    "coef": 1.18
   },
   {
     "title": "Xb10r",
@@ -5003,7 +5003,7 @@
     "textage": "31/xb10r.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 0.97
+    "coef": 1.05
   },
   {
     "title": "Xerulean",
@@ -5015,7 +5015,7 @@
     "textage": "30/xerulean.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.29
+    "coef": 1.26
   },
   {
     "title": "Xlo",
@@ -5027,7 +5027,7 @@
     "textage": "26/xlo.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.17
+    "coef": 1.16
   },
   {
     "title": "Xperanza",
@@ -5039,7 +5039,7 @@
     "textage": "25/xperanza.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.03
+    "coef": 1.09
   },
   {
     "title": "Y&Co. is dead or alive",
@@ -5063,7 +5063,7 @@
     "textage": "19/yaksha.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.34
+    "coef": 1.24
   },
   {
     "title": "yellow head joe",
@@ -5087,7 +5087,7 @@
     "textage": "27/ypsilon.html?1XC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.11
+    "coef": 1.14
   },
   {
     "title": "ZEPHYRANTHES",
@@ -5099,7 +5099,7 @@
     "textage": "23/zephyran.html?1XC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.2
+    "coef": 1.19
   },
   {
     "title": "Zirkfied",
@@ -5111,7 +5111,7 @@
     "textage": "20/zirkfied.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.08
+    "coef": 1.12
   },
   {
     "title": "ZZ",
@@ -5123,7 +5123,7 @@
     "textage": "22/zz_amuro.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.1
+    "coef": 1.12
   },
   {
     "title": "#CMFLG",
@@ -5135,7 +5135,7 @@
     "textage": "30/_cmflg.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.08
+    "coef": 1.1
   },
   {
     "title": "#MAGiCVLGiRL_TRVP_B3VTZ",
@@ -5147,7 +5147,7 @@
     "textage": "24/_magicvl.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.1
+    "coef": 1.12
   },
   {
     "title": "-65℃",
@@ -5159,7 +5159,7 @@
     "textage": "28/_65c.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.12
+    "coef": 1.13
   },
   {
     "title": "[ ]DENTITY",
@@ -5171,7 +5171,7 @@
     "textage": "30/_dentity.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.42
+    "coef": 1.25
   },
   {
     "title": "199024club -Re:BounceKiller-",
@@ -5183,7 +5183,7 @@
     "textage": "23/199024cl.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.03
+    "coef": 1.06
   },
   {
     "title": "2 Beasts Unchained",
@@ -5195,7 +5195,7 @@
     "textage": "29/2beasts.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.04
+    "coef": 1.11
   },
   {
     "title": "24h Endurance Race",
@@ -5207,7 +5207,7 @@
     "textage": "30/24h_race.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.29
+    "coef": 1.22
   },
   {
     "title": "255",
@@ -5219,7 +5219,7 @@
     "textage": "25/255_255.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.43
+    "coef": 1.28
   },
   {
     "title": "3y3s",
@@ -5231,7 +5231,7 @@
     "textage": "16/3y3s.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.49
+    "coef": 1.3
   },
   {
     "title": "アストライアの双皿",
@@ -5243,7 +5243,7 @@
     "textage": "20/_astraia.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1
+    "coef": 1.05
   },
   {
     "title": "イザナミノナゲキ",
@@ -5267,7 +5267,7 @@
     "textage": "26/_candykd.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.2
+    "coef": 1.13
   },
   {
     "title": "お米の美味しい炊き方、そしてお米を食べることによるその効果。",
@@ -5279,7 +5279,7 @@
     "textage": "20/_howrice.html?1XC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.47
+    "coef": 1.29
   },
   {
     "title": "カゴノトリ～弐式～",
@@ -5291,7 +5291,7 @@
     "textage": "13/_kagono.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 0.9
+    "coef": 0.96
   },
   {
     "title": "がっつり陰キャ!? 怪盗いいんちょの億劫^^;",
@@ -5303,7 +5303,7 @@
     "textage": "27/_gatturi.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.22
+    "coef": 1.2
   },
   {
     "title": "キャトられ恋はモ～モク",
@@ -5315,7 +5315,7 @@
     "textage": "20/_kyatora.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.46
+    "coef": 1.31
   },
   {
     "title": "シムルグの目醒め",
@@ -5327,7 +5327,7 @@
     "textage": "25/_simurgh.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.09
+    "coef": 1.13
   },
   {
     "title": "シュレーディンガーの猫",
@@ -5339,7 +5339,7 @@
     "textage": "20/_schrcat.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 0.99
+    "coef": 1.08
   },
   {
     "title": "スーパー戦湯ババンバーン",
@@ -5351,7 +5351,7 @@
     "textage": "28/_spbaban.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 0.99
+    "coef": 1.05
   },
   {
     "title": "ぞうしょく！？マイデンティティ",
@@ -5363,7 +5363,7 @@
     "textage": "30/_zoshoku.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.1
+    "coef": 1.14
   },
   {
     "title": "それは花火のような恋",
@@ -5375,7 +5375,7 @@
     "textage": "22/_shanabi.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.01
+    "coef": 1.06
   },
   {
     "title": "たまゆら",
@@ -5387,7 +5387,7 @@
     "textage": "20/_tamayra.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.09
+    "coef": 1.12
   },
   {
     "title": "ディスコルディア",
@@ -5399,7 +5399,7 @@
     "textage": "28/_dscrdia.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.17
+    "coef": 1.18
   },
   {
     "title": "トリカゴノ鳳凰",
@@ -5411,7 +5411,7 @@
     "textage": "20/_trikago.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.04
+    "coef": 1.09
   },
   {
     "title": "ハイテックトキオ",
@@ -5423,7 +5423,7 @@
     "textage": "29/_hitokio.html?1XC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.1
+    "coef": 1.12
   },
   {
     "title": "バッド・スイーツ、バッド・ドリーム",
@@ -5435,7 +5435,7 @@
     "textage": "28/_badswts.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 0.92
+    "coef": 0.99
   },
   {
     "title": "ピアノ協奏曲第１番”蠍火”",
@@ -5459,7 +5459,7 @@
     "textage": "27/_psaso_r.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.26
+    "coef": 1.2
   },
   {
     "title": "ピアノ独奏無言歌 \"灰燼\"",
@@ -5471,7 +5471,7 @@
     "textage": "29/_pkaijin.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.55
+    "coef": 1.3
   },
   {
     "title": "ミラージュ・レジデンス",
@@ -5483,7 +5483,7 @@
     "textage": "15/_m_resid.html?1XC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.19
+    "coef": 1.14
   },
   {
     "title": "めいさいアイドル☆あいむちゃん♪",
@@ -5495,7 +5495,7 @@
     "textage": "23/_meisai.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.05
+    "coef": 1.1
   },
   {
     "title": "リリーゼと炎龍レーヴァテイン",
@@ -5507,7 +5507,7 @@
     "textage": "22/_lilieze.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.1
+    "coef": 1.11
   },
   {
     "title": "ワルツ第17番 ト短調”大犬のワルツ”",
@@ -5519,7 +5519,7 @@
     "textage": "17/_valse17.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 0.96
+    "coef": 0.99
   },
   {
     "title": "紫陽花 -AZISAI-",
@@ -5531,7 +5531,7 @@
     "textage": "23/_azisai.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 3
+    "coef": 1.42
   },
   {
     "title": "紫陽花 -AZISAI-",
@@ -5543,7 +5543,7 @@
     "textage": "23/_azisai.html?1XC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 3
+    "coef": 1.42
   },
   {
     "title": "天邪鬼",
@@ -5555,7 +5555,7 @@
     "textage": "29/_amanojk.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.08
+    "coef": 1.07
   },
   {
     "title": "栄冠のカンパネラ",
@@ -5567,7 +5567,7 @@
     "textage": "30/_eikan_c.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.34
+    "coef": 1.21
   },
   {
     "title": "駅猫のワルツ",
@@ -5579,7 +5579,7 @@
     "textage": "23/_ekineko.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.19
+    "coef": 1.18
   },
   {
     "title": "焔極OVERKILL",
@@ -5591,7 +5591,7 @@
     "textage": "24/_enkyoku.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.09
+    "coef": 1.1
   },
   {
     "title": "音楽",
@@ -5603,7 +5603,7 @@
     "textage": "20/_ongaku.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.3
+    "coef": 1.23
   },
   {
     "title": "仮想空間の旅人たち",
@@ -5615,7 +5615,7 @@
     "textage": "20/_travell.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 0.93
+    "coef": 1.03
   },
   {
     "title": "華蝶風雪",
@@ -5627,7 +5627,7 @@
     "textage": "13/_kachofu.html?1XC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.05
+    "coef": 1.07
   },
   {
     "title": "神のシナリオ",
@@ -5639,7 +5639,7 @@
     "textage": "30/_kmscena.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.09
+    "coef": 1.1
   },
   {
     "title": "華麗なる大犬円舞曲",
@@ -5651,7 +5651,7 @@
     "textage": "27/_valse27.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 0.97
+    "coef": 1.02
   },
   {
     "title": "君のハートにロックオン",
@@ -5663,7 +5663,7 @@
     "textage": "19/_klockon.html?1XC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.06
+    "coef": 1.12
   },
   {
     "title": "九尾狐夜行",
@@ -5675,7 +5675,7 @@
     "textage": "24/_kyubi.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.07
+    "coef": 1.12
   },
   {
     "title": "共鳴遊戯の華",
@@ -5687,7 +5687,7 @@
     "textage": "22/_kyoumei.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.34
+    "coef": 1.22
   },
   {
     "title": "閠槞彁の願い",
@@ -5699,7 +5699,7 @@
     "textage": "28/_grk.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.05
+    "coef": 1.1
   },
   {
     "title": "狂イ咲ケ焔ノ華",
@@ -5711,7 +5711,7 @@
     "textage": "20/_kuruizk.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.12
+    "coef": 1.13
   },
   {
     "title": "黒髪乱れし修羅となりて",
@@ -5723,7 +5723,7 @@
     "textage": "18/_krokami.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 0.86
+    "coef": 1.01
   },
   {
     "title": "恋する☆宇宙戦争っ！！",
@@ -5735,7 +5735,7 @@
     "textage": "19/_koisuru.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.11
+    "coef": 1.12
   },
   {
     "title": "恋する☆宇宙戦争っ！！",
@@ -5747,7 +5747,7 @@
     "textage": "19/_koisuru.html?1XC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.11
+    "coef": 1.12
   },
   {
     "title": "子供の落書き帳",
@@ -5759,7 +5759,7 @@
     "textage": "19/_kodomo.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.45
+    "coef": 1.3
   },
   {
     "title": "今宵、ロマンス横丁。",
@@ -5771,7 +5771,7 @@
     "textage": "31/_koyoiry.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.3
+    "coef": 1.2
   },
   {
     "title": "金野火織の金色提言",
@@ -5783,7 +5783,7 @@
     "textage": "26/_k_hiori.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.1
+    "coef": 1.15
   },
   {
     "title": "最小三倍完全数",
@@ -5795,7 +5795,7 @@
     "textage": "26/_saisho3.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.02
+    "coef": 1.14
   },
   {
     "title": "桜",
@@ -5807,7 +5807,7 @@
     "textage": "8/_sakura.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.03
+    "coef": 1.12
   },
   {
     "title": "逆月",
@@ -5819,7 +5819,7 @@
     "textage": "29/_sakazki.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.08
+    "coef": 1.09
   },
   {
     "title": "残像ニ繋ガレタ追憶ノHIDEAWAY",
@@ -5831,7 +5831,7 @@
     "textage": "31/_zanzoni.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 0.96
+    "coef": 1.03
   },
   {
     "title": "疾風迅雷",
@@ -5843,7 +5843,7 @@
     "textage": "21/_ltspeed.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.03
+    "coef": 1.05
   },
   {
     "title": "疾風迅雷",
@@ -5855,7 +5855,7 @@
     "textage": "21/_ltspedl.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.03
+    "coef": 1.05
   },
   {
     "title": "灼熱Beach Side Bunny",
@@ -5867,7 +5867,7 @@
     "textage": "18/_shakunt.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.15
+    "coef": 1.05
   },
   {
     "title": "灼熱Beach Side Bunny (かめりあ's \"Summertime D'n'B\" Remix)",
@@ -5879,7 +5879,7 @@
     "textage": "31/_shaku_c.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.03
+    "coef": 1.11
   },
   {
     "title": "終焔のClaudia",
@@ -5891,7 +5891,7 @@
     "textage": "31/_shuen_c.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.07
+    "coef": 1.11
   },
   {
     "title": "灼熱 Pt.2 Long Train Running",
@@ -5903,7 +5903,7 @@
     "textage": "23/_syaku_2.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.13
+    "coef": 1.1
   },
   {
     "title": "少年A",
@@ -5915,7 +5915,7 @@
     "textage": "15/_kid_a.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 0.92
+    "coef": 1.04
   },
   {
     "title": "少年は空を辿る",
@@ -5927,7 +5927,7 @@
     "textage": "22/_soratad.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 0.91
+    "coef": 0.99
   },
   {
     "title": "深淵に捧ぐレクイエム",
@@ -5939,7 +5939,7 @@
     "textage": "27/_shinen.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 0.96
+    "coef": 1.03
   },
   {
     "title": "神謳 -RESONANCE-",
@@ -5951,7 +5951,7 @@
     "textage": "25/_resonan.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.13
+    "coef": 1.14
   },
   {
     "title": "真 地獄超特急 -HELL or HELL-",
@@ -5963,7 +5963,7 @@
     "textage": "23/_sjigoku.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 0.95
+    "coef": 1.03
   },
   {
     "title": "水鏡の異界",
@@ -5975,7 +5975,7 @@
     "textage": "28/_suikyo.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.3
+    "coef": 1.22
   },
   {
     "title": "聖人の塔",
@@ -5987,7 +5987,7 @@
     "textage": "19/_seijin.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 0.5
+    "coef": 1
   },
   {
     "title": "世界の果てに約束の凱歌を -ReUnion-",
@@ -5999,7 +5999,7 @@
     "textage": "28/_sekaiop.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.11
+    "coef": 1.14
   },
   {
     "title": "雪月花",
@@ -6011,7 +6011,7 @@
     "textage": "10/_stgekka.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.03
+    "coef": 1.07
   },
   {
     "title": "雪上断火",
@@ -6023,7 +6023,7 @@
     "textage": "29/_setsujo.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1
+    "coef": 1.04
   },
   {
     "title": "千年ノ理",
@@ -6035,7 +6035,7 @@
     "textage": "22/_sennen.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.19
+    "coef": 1.16
   },
   {
     "title": "千年ノ理",
@@ -6047,7 +6047,7 @@
     "textage": "22/_sennen.html?1XC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.19
+    "coef": 1.16
   },
   {
     "title": "旋律のドグマ～Miserables～",
@@ -6059,7 +6059,7 @@
     "textage": "21/_s_dogma.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.04
+    "coef": 1.12
   },
   {
     "title": "即席！脳直★ミュージックシステム",
@@ -6071,7 +6071,7 @@
     "textage": "20/_sokseki.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 0.97
+    "coef": 1.07
   },
   {
     "title": "抱きしめてモナムール",
@@ -6083,7 +6083,7 @@
     "textage": "26/_dakismt.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.03
+    "coef": 1.09
   },
   {
     "title": "超青少年ノ為ノ超多幸ナ超古典的超舞曲",
@@ -6095,7 +6095,7 @@
     "textage": "22/_verycsl.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.13
+    "coef": 1.17
   },
   {
     "title": "津軽雪",
@@ -6119,7 +6119,7 @@
     "textage": "19/_tkyoake.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.48
+    "coef": 1.23
   },
   {
     "title": "電光",
@@ -6131,7 +6131,7 @@
     "textage": "31/_denkou.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 0.92
+    "coef": 1.02
   },
   {
     "title": "電人、暁に斃れる。",
@@ -6143,7 +6143,7 @@
     "textage": "14/_fattack.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.07
+    "coef": 1.15
   },
   {
     "title": "電腦都市",
@@ -6155,7 +6155,7 @@
     "textage": "31/_dennots.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.08
+    "coef": 1.13
   },
   {
     "title": "東京神話",
@@ -6167,7 +6167,7 @@
     "textage": "25/_tksinwa.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.23
+    "coef": 1.2
   },
   {
     "title": "童話回廊",
@@ -6179,7 +6179,7 @@
     "textage": "24/_dowakai.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.14
+    "coef": 1.15
   },
   {
     "title": "轟け！恋のビーンボール！！",
@@ -6191,7 +6191,7 @@
     "textage": "21/_todorok.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.03
+    "coef": 1.1
   },
   {
     "title": "†渚の小悪魔ラヴリィ～レイディオ†(IIDX EDIT)",
@@ -6203,7 +6203,7 @@
     "textage": "20/_nagisa.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.2
+    "coef": 1.19
   },
   {
     "title": "嘆きの樹",
@@ -6215,7 +6215,7 @@
     "textage": "13/_nageki.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.14
+    "coef": 1.12
   },
   {
     "title": "夏色DIARY - L.E.D.-G STYLE MIX -",
@@ -6227,7 +6227,7 @@
     "textage": "22/_ntdiary.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.08
+    "coef": 1.15
   },
   {
     "title": "廿",
@@ -6239,7 +6239,7 @@
     "textage": "21/_twentyl.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1
+    "coef": 1.12
   },
   {
     "title": "儚キ戀ノ幻想譚",
@@ -6251,7 +6251,7 @@
     "textage": "30/_hgensou.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.07
+    "coef": 1.09
   },
   {
     "title": "伐折羅-vajra-",
@@ -6263,7 +6263,7 @@
     "textage": "28/_vajra.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.08
+    "coef": 1.09
   },
   {
     "title": "刃図羅",
@@ -6275,7 +6275,7 @@
     "textage": "24/_buzra.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.19
+    "coef": 1.16
   },
   {
     "title": "華爛漫 -Flowers-",
@@ -6287,7 +6287,7 @@
     "textage": "15/_hranman.html?1XC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 0.96
+    "coef": 1.03
   },
   {
     "title": "火影",
@@ -6299,7 +6299,7 @@
     "textage": "24/_hikage.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.23
+    "coef": 1.1
   },
   {
     "title": "卑弥呼",
@@ -6311,7 +6311,7 @@
     "textage": "16/_himiko.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.34
+    "coef": 1.18
   },
   {
     "title": "表裏一体！？怪盗いいんちょの悩み",
@@ -6323,7 +6323,7 @@
     "textage": "22/_hyouri.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.11
+    "coef": 1.14
   },
   {
     "title": "表裏一体！？怪盗いいんちょの悩み",
@@ -6335,7 +6335,7 @@
     "textage": "22/_hyouri.html?1XC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.11
+    "coef": 1.14
   },
   {
     "title": "二人ノ廃城幽踊宴",
@@ -6347,7 +6347,7 @@
     "textage": "28/_a_rvnant.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.1
+    "coef": 1.15
   },
   {
     "title": "不沈艦CANDY",
@@ -6359,7 +6359,7 @@
     "textage": "16/_fuchin.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.04
+    "coef": 1.07
   },
   {
     "title": "紅牡丹",
@@ -6371,7 +6371,7 @@
     "textage": "22/_benibtn.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1
+    "coef": 1.06
   },
   {
     "title": "烽火連天の刃",
@@ -6383,7 +6383,7 @@
     "textage": "29/_hrenten.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.14
+    "coef": 1.13
   },
   {
     "title": "摩天楼",
@@ -6395,7 +6395,7 @@
     "textage": "31/_matenro.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.05
+    "coef": 1.07
   },
   {
     "title": "魔法のかくれんぼ",
@@ -6407,7 +6407,7 @@
     "textage": "28/_mkakure.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 0.96
+    "coef": 1.03
   },
   {
     "title": "未完成ノ蒸氣驅動乙女",
@@ -6419,7 +6419,7 @@
     "textage": "31/_mikanse.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.03
+    "coef": 1.06
   },
   {
     "title": "禊",
@@ -6431,7 +6431,7 @@
     "textage": "29/_misogi.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.16
+    "coef": 1.14
   },
   {
     "title": "魅惑のYUMMYスイーツ",
@@ -6443,7 +6443,7 @@
     "textage": "27/_enyummy.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 0.97
+    "coef": 1.08
   },
   {
     "title": "冥",
@@ -6455,7 +6455,7 @@
     "textage": "12/_mei.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.29
+    "coef": 1.15
   },
   {
     "title": "龍と少女とデコヒーレンス",
@@ -6467,7 +6467,7 @@
     "textage": "20/_decohel.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.06
+    "coef": 1.13
   },
   {
     "title": "恋愛＝精度×認識力",
@@ -6491,7 +6491,7 @@
     "textage": "21/_elefthe.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.21
+    "coef": 1.17
   },
   {
     "title": "惑星鉄道",
@@ -6503,7 +6503,7 @@
     "textage": "31/_waktetu.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.26
+    "coef": 1.14
   },
   {
     "title": "海神",
@@ -6515,7 +6515,7 @@
     "textage": "21/_wadatmi.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.08
+    "coef": 1.09
   },
   {
     "title": "海神",
@@ -6527,7 +6527,7 @@
     "textage": "21/_wadatmi.html?1XC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.08
+    "coef": 1.09
   },
   {
     "title": "龍王の霊廟(Mausoleum Of The Primal Dragon)",
@@ -6539,7 +6539,7 @@
     "textage": "26/_mausole.html?1XC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.03
+    "coef": 1.09
   },
   {
     "title": "俺ら東京さ行ぐだ",
@@ -6551,7 +6551,7 @@
     "textage": "27/_oratoky.html?1XC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.18
+    "coef": 1.21
   },
   {
     "title": "fffff",
@@ -6563,7 +6563,7 @@
     "textage": "19/fffff.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.31
+    "coef": 1.24
   },
   {
     "title": "ΕΛΠΙΣ",
@@ -6575,7 +6575,7 @@
     "textage": "20/_elpis.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.37
+    "coef": 1.24
   },
   {
     "title": "ΕΛΠΙΣ",
@@ -6587,7 +6587,7 @@
     "textage": "20/_elpis.html?1XC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.37
+    "coef": 1.24
   },
   {
     "title": "IX",
@@ -6599,7 +6599,7 @@
     "textage": "21/_nine_ix.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.28
+    "coef": 1.21
   },
   {
     "title": "∀",
@@ -6611,7 +6611,7 @@
     "textage": "28/_turn_a.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.2
+    "coef": 1.17
   },
   {
     "title": "〆",
@@ -6623,7 +6623,7 @@
     "textage": "24/_shime.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.05
+    "coef": 1.09
   },
   {
     "title": "ATHER",
@@ -6635,7 +6635,7 @@
     "textage": "21/_aether.html?1XC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.29
+    "coef": 1.26
   },
   {
     "title": "《PL|RAYER》",
@@ -6647,7 +6647,7 @@
     "textage": "31/_plrayer.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1
+    "coef": 1.05
   },
   {
     "title": "ELECTRIC MASSIVE DIVER",
@@ -6715,7 +6715,7 @@
     "textage": "21/madatack.html?1XC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.14
+    "coef": 1.13
   },
   {
     "title": "Bring The Fire",
@@ -6727,7 +6727,7 @@
     "textage": "32/brngfire.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.22
+    "coef": 1.12
   },
   {
     "title": "destination",
@@ -6739,7 +6739,7 @@
     "textage": "32/dstntion.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.2
+    "coef": 1.12
   },
   {
     "title": "Drop Syndicate",
@@ -6751,7 +6751,7 @@
     "textage": "32/dropsynd.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.25
+    "coef": 1.14
   },
   {
     "title": "Here We Go Now",
@@ -6763,7 +6763,7 @@
     "textage": "32/here_now.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.37
+    "coef": 1.2
   },
   {
     "title": "NOIXIA",
@@ -6775,7 +6775,7 @@
     "textage": "32/noixia.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.37
+    "coef": 1.19
   },
   {
     "title": "Satellite Burst",
@@ -6787,7 +6787,7 @@
     "textage": "32/satburst.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.44
+    "coef": 1.22
   },
   {
     "title": "u gotta beat",
@@ -6799,7 +6799,7 @@
     "textage": "32/ugottabt.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.28
+    "coef": 1.15
   },
   {
     "title": "灼熱 Lost Summer Dayz",
@@ -6811,7 +6811,7 @@
     "textage": "32/_shakuls.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.2
+    "coef": 1.1
   },
   {
     "title": "スパークリング☆彡ハイパーチューン！！",
@@ -6823,7 +6823,7 @@
     "textage": "32/_sparkht.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.12
+    "coef": 1.07
   },
   {
     "title": "EX-MASSIVE FIGHTER",
@@ -6835,7 +6835,7 @@
     "textage": "32/exmasive.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.45
+    "coef": 1.25
   },
   {
     "title": "1116",
@@ -6847,7 +6847,7 @@
     "textage": "32/1116dust.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.41
+    "coef": 1.25
   },
   {
     "title": "Cross Fire",
@@ -6859,7 +6859,7 @@
     "textage": "32/crosfire.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.43
+    "coef": 1.25
   },
   {
     "title": "DIVINE JUDGEMENT",
@@ -6871,7 +6871,7 @@
     "textage": "32/divjudge.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.12
+    "coef": 1.08
   },
   {
     "title": "Roar of Chronos",
@@ -6883,7 +6883,7 @@
     "textage": "32/roarchro.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.15
+    "coef": 1.11
   },
   {
     "title": "Mid-Corner (Magic Maker)",
@@ -6895,7 +6895,7 @@
     "textage": "32/mid_crnr.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.29
+    "coef": 1.18
   },
   {
     "title": "天使のカンタータ -Cantata of Angels-",
@@ -6907,7 +6907,7 @@
     "textage": "32/_cantata.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.55
+    "coef": 1.3
   },
   {
     "title": "FlyAway",
@@ -6919,7 +6919,7 @@
     "textage": "32/flyawayb.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.16
+    "coef": 1.11
   },
   {
     "title": "hora de verdad",
@@ -6931,7 +6931,7 @@
     "textage": "32/horadeve.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 0.96
+    "coef": 1.01
   },
   {
     "title": "Without Heaven",
@@ -6943,7 +6943,7 @@
     "textage": "32/withouth.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.34
+    "coef": 1.21
   },
   {
     "title": "God Mind",
@@ -6955,7 +6955,7 @@
     "textage": "32/godmind.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.09
+    "coef": 1.1
   },
   {
     "title": "SμG@R RU$#",
@@ -6967,7 +6967,7 @@
     "textage": "32/sugarush.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.1
+    "coef": 1.11
   },
   {
     "title": "MARLIN",
@@ -6979,7 +6979,7 @@
     "textage": "32/marlin.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.16
+    "coef": 1.13
   },
   {
     "title": "スキッテイエェエエェ!!!!",
@@ -6991,7 +6991,7 @@
     "textage": "32/_sukitte.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.27
+    "coef": 1.18
   },
   {
     "title": "アラビアン ハイパー ナイト",
@@ -7003,7 +7003,7 @@
     "textage": "32/_arabhyp.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.42
+    "coef": 1.24
   },
   {
     "title": "Uaigh Gealai",
@@ -7015,7 +7015,7 @@
     "textage": "32/uaigh.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.31
+    "coef": 1.2
   },
   {
     "title": "uen",
@@ -7027,7 +7027,7 @@
     "textage": "32/_uen.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.53
+    "coef": 1.27
   },
   {
     "title": "Flamingo",
@@ -7039,7 +7039,7 @@
     "textage": "32/flamingo.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.41
+    "coef": 1.22
   },
   {
     "title": "XHRONOXAPSULΞ",
@@ -7051,7 +7051,7 @@
     "textage": "32/xhronoxp.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.21
+    "coef": 1.19
   },
   {
     "title": "SISYPHUS",
@@ -7063,7 +7063,7 @@
     "textage": "32/sisyphus.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1
+    "coef": 1.03
   },
   {
     "title": "EYE OF THE HEAVEN",
@@ -7075,7 +7075,7 @@
     "textage": "32/eyeheavn.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.05
+    "coef": 1.07
   },
   {
     "title": "Lightspeed",
@@ -7087,7 +7087,7 @@
     "textage": "32/lightspd.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.3
+    "coef": 1.19
   },
   {
     "title": "COSMIC V3LOCITY",
@@ -7099,7 +7099,7 @@
     "textage": "32/cosmcv3l.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.23
+    "coef": 1.15
   },
   {
     "title": "Pinky Happy Crazy",
@@ -7111,7 +7111,7 @@
     "textage": "32/pinkycrz.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 0.5
+    "coef": 1
   },
   {
     "title": "A MINSTREL ～ ver. short-scape ～",
@@ -7123,7 +7123,7 @@
     "textage": "19/a_minstr.html?1XC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.17
+    "coef": 1.16
   },
   {
     "title": "CUE CUE RESCUE",
@@ -7135,7 +7135,7 @@
     "textage": "30/cuerscue.html?1XC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.2
+    "coef": 1.16
   },
   {
     "title": "蛇神",
@@ -7147,7 +7147,7 @@
     "textage": "19/_kagachi.html?1XC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.17
+    "coef": 1.14
   },
   {
     "title": "HYENA",
@@ -7171,7 +7171,7 @@
     "textage": "27/bowshock.html?1XC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.29
+    "coef": 1.21
   },
   {
     "title": "#The_Relentless",
@@ -7183,7 +7183,7 @@
     "textage": "22/_therele.html?1XC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.33
+    "coef": 1.23
   },
   {
     "title": "ChaserXX",
@@ -7195,7 +7195,7 @@
     "textage": "25/chaserxx.html?1XC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.35
+    "coef": 1.22
   },
   {
     "title": "INAZUMA",
@@ -7207,7 +7207,7 @@
     "textage": "12/inazuma.html?1XC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 0.5
+    "coef": 1
   },
   {
     "title": "聖人の塔",
@@ -7219,7 +7219,7 @@
     "textage": "19/_seijin.html?1XC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 0.5
+    "coef": 1
   },
   {
     "title": "Skratch Education Lv-1",
@@ -7231,7 +7231,7 @@
     "textage": "32/skedulv1.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 0.95
+    "coef": 1.03
   },
   {
     "title": "LIGHTNING STRIKES",
@@ -7243,7 +7243,7 @@
     "textage": "27/lightstr.html?1XC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.33
+    "coef": 1.19
   },
   {
     "title": "Aqvion",
@@ -7255,7 +7255,7 @@
     "textage": "32/aqvion.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.13
+    "coef": 1.12
   },
   {
     "title": "灼熱Beach Side Bunny (かめりあ's \"Summertime D'n'B\" Remix)",
@@ -7267,6 +7267,6 @@
     "textage": "31/_shaku_c.html?1AC00",
     "difficultyLevel": "12",
     "dpLevel": "0",
-    "coef": 1.03
+    "coef": 1.11
   }
 ]
